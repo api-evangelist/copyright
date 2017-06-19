@@ -1,8 +1,794 @@
 ---
+- curated_id: 012717bd2f11dfe5ab62acd9eb23bf29
+  item_date: "2012-04-21 19:29:13"
+  title: Oracle v Google could clear way for copyright on languages, APIs
+  url: http://www.theregister.co.uk/2012/04/17/google_oracle_copyright_on_languages/
+  domain: www.theregister.co.uk
+  image: ""
+- curated_id: b3f1d535010867f6e30582331cf2fc67
+  item_date: "2012-04-29 10:13:42"
+  title: Oracle President testifies, jury told to assume APIs are copyrightable
+  url: http://arstechnica.com/tech-policy/2012/04/oracle-president-testifies-jury-told-to-assume-apis-are-copyrightable/
+  domain: arstechnica.com
+  image: ""
+- curated_id: 10b62080665c9861d82626ee4d4998cf
+  item_date: "2012-05-03 12:00:30"
+  title: Programming languages not copyrightable rules top EU court
+  url: http://www.itworld.com/article/2726038/enterprise-software/programming-languages-not-copyrightable-rules-top-eu-court.html
+  domain: www.itworld.com
+  image: ""
+- curated_id: 2fbffeb4bd6d715943d7394f4df013e4
+  item_date: "2012-05-03 12:05:55"
+  title: 'Oracle v. Google: Are APIs Covered By Copyright Law? - Forbes'
+  url: http://www.forbes.com/sites/oliverherzfeld/2012/05/01/oracle-v-google-are-apis-covered-by-copyright-law/
+  domain: www.forbes.com
+  image: ""
+- curated_id: 6d2898d38863ca293be24ee689b0b6cc
+  item_date: "2012-05-05 10:54:27"
+  title: Oracle Wants Judge to Bar Ex-Sun CEO Schwartzs Testimony in Google Suit |
+    PCWorld Business Center
+  url: http://www.pcworld.com/article/255067/oracle_wants_judge_to_bar_exsun_ceo_schwartzs_testimony_in_google_suit.html
+  domain: www.pcworld.com
+  image: ""
+- curated_id: 2d75f5033b688b33be2bfb9b071df4f9
+  item_date: "2012-05-07 11:48:50"
+  title: Could an Oracle Win Against Google Blow Up the Cloud?
+  url: http://www.wired.com/2012/05/oracle_clou/
+  domain: www.wired.com
+  image: ""
+- curated_id: ac6175ad59a968f1786d57e19057e95e
+  item_date: "2012-05-07 12:43:06"
+  title: Google Calls for Mistrial After Jury Says Android Stole From Java
+  url: http://www.wired.com/2012/05/oracle-google-verdict/
+  domain: www.wired.com
+  image: ""
+- curated_id: a5ff642e887513703d2cea4e69159c52
+  item_date: "2012-05-07 22:40:41"
+  title: 'EUs top court: APIs cant be copyrighted, would &quot;monopolise ideas&quot;'
+  url: http://arstechnica.com/tech-policy/2012/05/eus-top-court-apis-cant-be-copyrighted-would-monopolise-ideas/
+  domain: arstechnica.com
+  image: ""
+- curated_id: a9d201213eacd45320541c7114dd733a
+  item_date: "2012-05-08 10:33:17"
+  title: Oracle gets a chance to rewrite software law
+  url: http://www.cnet.com/news/oracle-gets-a-chance-to-rewrite-software-law/
+  domain: www.cnet.com
+  image: ""
+- curated_id: 899c3d5fe26ef8845c6ee88d1104e7fd
+  item_date: "2012-05-08 23:47:54"
+  title: Google and Oracle Enter Round Two of Heavyweight Legal Fight
+  url: http://www.techmeme.com/120508/p73
+  domain: www.techmeme.com
+  image: ""
+- curated_id: f856f3575c8022ca7ea20853756f0d25
+  item_date: "2012-05-09 10:19:45"
+  title: Copyrights, APIs, and Oracle vs Google
+  url: http://www.zdnet.com/article/copyrights-apis-and-oracle-vs-google/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 311bacb4e13b1675a8f623fa3b5200ca
+  item_date: "2012-05-14 17:07:05"
+  title: On The Issue Of Standardization Around AWS APIs
+  url: https://www.cloudave.com/19602/on-the-issue-of-standardization-around-aws-apis/
+  domain: www.cloudave.com
+  image: ""
+- curated_id: de0b30d97085941c01baaa1283132ff7
+  item_date: "2012-05-15 10:39:05"
+  title: If You Can Copyright an API, What Else Can You Copyright?
+  url: http://www.wired.com/2012/05/api-copyright/
+  domain: www.wired.com
+  image: ""
+- curated_id: 89613e1127d045a57804bef59d6185da
+  item_date: "2012-05-16 13:49:40"
+  title: Oracle and Google Agree to Copyright Truce (For Now)
+  url: http://www.wired.com/2012/05/oracle-google-truce/
+  domain: www.wired.com
+  image: ""
+- curated_id: 3bac444aa5c05dfd966c17ecf650406d
+  item_date: "2012-05-17 11:38:03"
+  title: ""
+  url: http://apigee.com/about/blog/digital-business/apis-and-copyrights-monopolizing-ideas-or-affording-protection-video-slides
+  domain: apigee.com
+  image: ""
+- curated_id: 617e260cd81fd84a8e548b26b02468c4
+  item_date: "2012-06-03 17:58:01"
+  title: 'Alsup is Wrong: APIs Must be Given Copyright Protection'
+  url: http://www.theserverside.com/news/thread.tss
+  domain: www.theserverside.com
+  image: ""
+- curated_id: e63db16449393f543e1c2e3eb7a3615b
+  item_date: "2013-01-10 00:00:00"
+  title: 'Copyright 101: What do you want to know?'
+  url: http://www.shapeways.com/blog/archives/1872-Copyright-101-What-do-you-want-to-know.html
+  domain: www.shapeways.com
+  image: ""
+- curated_id: 469b4b7ed94ee78e86c29aa8514fc7d6
+  item_date: "2013-01-18 09:20:44"
+  title: 'The Copyfights Next Stage: We All Speak Up Together'
+  url: https://www.eff.org/deeplinks/2013/01/copyfights-next-stage-we-all-speak-together
+  domain: www.eff.org
+  image: ""
+- curated_id: ae407c4877e843a6db4b8ac5dad07cbb
+  item_date: "2013-01-20 00:00:00"
+  title: How to Avoid Copyright Infringement When Creating Your Android App Content
+  url: http://www.appsgeyser.com/blog/how-to-avoid-copyright-infringement-when-creating-your-android-app-content/
+  domain: www.appsgeyser.com
+  image: ""
+- curated_id: 361c42d97dc3f70a68c801abd41f113e
+  item_date: "2013-03-20 08:23:11"
+  title: Updating the Copyright Act? Its up to all of us.
+  url: https://www.eff.org/deeplinks/2013/03/updating-copyright-act-its-up-to-all-of-us
+  domain: www.eff.org
+  image: ""
+- curated_id: 5e6652b7dbdfbc48edcd9f316bc90cfd
+  item_date: "2013-06-04 00:00:00"
+  title: Google Reader API replacement, powered by Riak
+  url: http://blog.superfeedr.com/google-reader-api-riak/
+  domain: blog.superfeedr.com
+  image: ""
+- curated_id: 69734d041c2a318903410e3ad21d966c
+  item_date: "2013-06-20 00:00:00"
+  title: Factual IDs Now Available Under CC-BY License
+  url: https://www.factual.com/blog/factual-ids-now-cc-by-license
+  domain: www.factual.com
+  image: ""
+- curated_id: 851aa59a19d1455cb38d6a770b093626
+  item_date: "2013-06-26 00:00:00"
+  title: How to insert copyright information metadata
+  url: http://en.safecreative.net/2013/06/26/copyright-information-metadata/
+  domain: en.safecreative.net
+  image: ""
+- curated_id: a1928012cbb79e794e246759ee95562d
+  item_date: "2013-11-26 00:00:00"
+  title: 'Creative Commons releases version 4.0: Congratulations!'
+  url: https://blog.wikimedia.org/2013/11/26/creative-commons-version-4-0/
+  domain: blog.wikimedia.org
+  image: ""
+- curated_id: 09dfb9515a05d08e6669825c871fbaaa
+  item_date: "2013-11-26 13:00:54"
+  title: Adding The CourtListener API To The Commons
+  url: http://apicommons.org/2013/11/26/adding-the-courtlistener-api-to-the-commons/
+  domain: apicommons.org
+  image: ""
+- curated_id: 5c134e4dccb79e59688423884eee8038
+  item_date: "2013-12-20 00:08:53"
+  title: Can Developers use APIs and Data Tools like Import.io to Create Commercial
+    Products?
+  url: http://www.programmableweb.com/news/can-developers-use-apis-and-data-tools-import.io-to-create-commercial-products/2013/12/19
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 88bae0f3ba1afa1a7c06106571adc2bd
+  item_date: "2014-05-29 02:14:59"
+  title: WhatsApp in violation of privacy law. | CounterMeasures ?  A Security Blog
+  url: http://countermeasures.trendmicro.eu/whatsapp-in-violation-of-privacy-law/
+  domain: countermeasures.trendmicro.eu
+  image: ""
+- curated_id: d7da0955bbcb820d5d92e02e96ca201f
+  item_date: "2014-05-30 03:53:22"
+  title: The API Copyright Debate
+  url: http://www2.smartbear.com/inbound-soapui-pro-api-copyright-debate.html
+  domain: www2.smartbear.com
+  image: ""
+- curated_id: ac64ebb22b5f0eff946e056ccd9af181
+  item_date: "2014-06-05 15:40:10"
+  title: API Commons Added To The API Commons
+  url: http://apicommons.org/2014/06/05/api-commons-added-to-the-api-commons/
+  domain: apicommons.org
+  image: ""
+- curated_id: 4dbd7c70d3a4782c9edcfd7da6642621
+  item_date: "2014-06-11 08:58:19"
+  title: Kin Lane on How API Commons Will Shape the Future of Web APIs
+  url: https://www.infoq.com/news/2014/05/kin-lane-api-commons
+  domain: www.infoq.com
+  image: ""
+- curated_id: 5f0574df7716e13ad2d9740760073bbe
+  item_date: "2014-08-14 17:53:04"
+  title: Certification Allows US Trade Negotiators to Rewrite TPP Copyright Rules
+    | Electronic Frontier Foundation
+  url: https://www.eff.org/deeplinks/2014/08/certification-allows-us-trade-negotiators-rewrite-tpps-copyright-rules
+  domain: www.eff.org
+  image: ""
+- curated_id: 6dbad03deeeb62f7a390ce203d88f52d
+  item_date: "2014-10-01 00:00:00"
+  title: A Resource on Copyright and Fair Use
+  url: http://bavatuesdays.com/a-resource-on-copyright-and-fair-use/
+  domain: bavatuesdays.com
+  image: ""
+- curated_id: 6590b44d0f3c9ad81281e6c941adb17f
+  item_date: "2014-12-03 00:00:00"
+  title: Oracle V Google API Copyright Case, Court Rulings Reviewed
+  url: http://www.programmableweb.com/news/oracle-v-google-api-copyright-case-court-rulings-reviewed/elsewhere-web/2014/12/03
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 04d790869096f21df75eaba0a0e7063f
+  item_date: "2014-12-17 08:47:32"
+  title: APIs should not be copyrightable
+  url: http://martinfowler.com/articles/copyright-api.html
+  domain: martinfowler.com
+  image: ""
+- curated_id: 775e65415527c10f8a00d0dd8c967e6b
+  item_date: "2014-12-18 00:00:00"
+  title: 'SoundCloud and copyright: an overview'
+  url: https://blog.soundcloud.com/2014/12/18/soundcloud-and-copyright-an-overview/
+  domain: blog.soundcloud.com
+  image: ""
 - curated_id: a59eee0198ede2fc2a9cfe3deff74662
   item_date: "2015-01-07 00:00:00"
   title: 'Factual Featured Partner: Snips'
   url: http://blog.factual.com
   domain: blog.factual.com
+  image: ""
+- curated_id: 750868b2a93f28fb3749c9740449fc60
+  item_date: "2015-03-02 18:34:49"
+  title: Copyright for APIs is going to be a disaster and only the Supreme Court can
+    stop it
+  url: http://www.vox.com/2014/11/18/7238825/copyright-for-apis-is-going-to-be-a-disaster-and-only-the-supreme
+  domain: www.vox.com
+  image: ""
+- curated_id: ebd6eee3fa4e1ad13d565e732990eb97
+  item_date: "2015-04-09 00:00:00"
+  title: SoundCloud starts working with YouTubes partner to scan music for copyright
+    infringement
+  url: http://www.theverge.com/2015/4/9/8376765/zefr-soundcloud-partner-copyright-detection
+  domain: www.theverge.com
+  image: ""
+- curated_id: 9b90ac66c4642716045dd232a4472d87
+  item_date: "2015-04-21 08:50:27"
+  title: What does it mean to copyright an API? | AppScale
+  url: http://www.appscale.com/2015/03/05/what-does-it-mean-to-copyright-an-api/
+  domain: www.appscale.com
+  image: ""
+- curated_id: a711add4c47958e4e343ff5f9d0cc1cb
+  item_date: "2015-04-23 00:00:00"
+  title: 6 Current Copyright Cases More Important Than Blurred Lines
+  url: https://www.plagiarismtoday.com/2015/04/23/6-current-copyright-cases-more-important-than-blurred-lines/
+  domain: www.plagiarismtoday.com
+  image: ""
+- curated_id: 42f3000ed0ced1814ae517cfe4888b3b
+  item_date: "2015-05-18 00:00:00"
+  title: Oracle-Google Java spat ? problem for Obama administration
+  url: http://disruptiveviews.com/oracle-google-java-spat-problem-for-obama-administration/
+  domain: disruptiveviews.com
+  image: ""
+- curated_id: 74127f1222c80c0323887616afa456bf
+  item_date: "2015-06-03 06:54:25"
+  title: ""
+  url: http://ben.balter.com/2015/06/03/copyright-notices-for-websites-and-open-source-projects/
+  domain: ben.balter.com
+  image: ""
+- curated_id: 6dddc8796b59d5421a53dfe99dfee225
+  item_date: "2015-06-09 00:00:00"
+  title: The DOJs Copyright Fetish Might Screw Up the Internets Future
+  url: http://www.forbes.com/sites/marvinammori/2015/06/09/the-dojs-copyright-fetish-might-screw-up-the-internets-future/
+  domain: www.forbes.com
+  image: ""
+- curated_id: 9544103f213bd41504759173947a2d4c
+  item_date: "2015-06-15 14:57:51"
+  title: 'European Parliamentarians to Vote Tomorrow: Fix Our Broken Copyright Law!'
+  url: https://www.eff.org/deeplinks/2015/06/european-parliamentarians-vote-tomorrow-fix-our-broken-copyright-law
+  domain: www.eff.org
+  image: ""
+- curated_id: 4386b5487aa77198e879f0b7442fcc9c
+  item_date: "2015-06-22 00:00:00"
+  title: Will Oracle v. Google Mean The Death of the API economy?
+  url: http://www.programmableweb.com/news/will-oracle-v.-google-mean-death-api-economy/analysis/2015/06/22
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: f85e3d11256373817b46ab971388ea9f
+  item_date: "2015-06-24 00:00:00"
+  title: Vote on copyright will not deliver on text and data mining
+  url: http://www.sciencebusiness.net/news/77097/Vote-on-copyright-will-not-deliver-on-text-and-data-mining
+  domain: www.sciencebusiness.net
+  image: ""
+- curated_id: 63121bb869eeb61bea5371316aa575c4
+  item_date: "2015-08-11 00:00:00"
+  title: Periscope has received 1,391 copyright takedown requests so far ? Twitter
+    complied with 71% of them
+  url: http://venturebeat.com/2015/08/11/periscope-has-received-1391-copyright-takedown-requests-so-far-twitter-complied-with-71-of-them/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 13c24631d43112a3103a56b362007cf4
+  item_date: "2015-08-11 13:53:16"
+  title: Twitter releases data on Periscopes copyright infringement problem
+  url: http://www.theverge.com/2015/8/11/9132011/twitters-periscope-copyright-transparency-report
+  domain: www.theverge.com
+  image: ""
+- curated_id: 5a796ba7319e10049b961e477cd1888b
+  item_date: "2015-12-08 00:00:00"
+  title: Creative Commons boasts more than 1 billion works available for use
+  url: http://thenextweb.com/creativity/2015/12/08/creative-commons-boasts-more-than-1-billion-works-available-for-use/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 8a28644be3ae914984c9ab63383e0d5c
+  item_date: "2016-01-10 00:00:00"
+  title: What Oracle V Google Teaches Business Owners About IP Law
+  url: http://pressreleases.responsesource.com/news/89554/what-oracle-v-google-teaches-business-owners-about-ip-law
+  domain: pressreleases.responsesource.com
+  image: ""
+- curated_id: fbec5260c2d92e9ac79037ec8fc5e76d
+  item_date: "2016-01-11 00:00:00"
+  title: What Oracle V Google Teaches Business Owners About Ip Law
+  url: http://www.yareah.com/2016/01/11/what-oracle-v-google-teaches-business-owners-about-ip-law/
+  domain: www.yareah.com
+  image: ""
+- curated_id: 776332f9e37fc798fbdf73e41156978d
+  item_date: "2016-01-15 00:00:00"
+  title: 'Infographic: What is a copyright registry?'
+  url: http://en.safecreative.net/2016/01/15/infographic-what-is-a-copyright-registry/
+  domain: en.safecreative.net
+  image: ""
+- curated_id: 128845fb58a328858306dd2487a8b780
+  item_date: "2016-01-29 10:51:56"
+  title: 'Copyright as Privacy, #Privacy as #Copyright'
+  url: http://www.netopia.eu/copyright-as-privacy-privacy-as-copyright/
+  domain: www.netopia.eu
+  image: ""
+- curated_id: 5083ac9bff20891e7b0ae67a6dacf559
+  item_date: "2016-04-14 16:41:52"
+  title: 'FOSS Patents: Oracle fundamentally disagrees with Judge Alsup on how to
+    instruct jury on fair use in Google case'
+  url: http://www.fosspatents.com/2016/04/oracle-fundamentally-disagrees-with.html#.VxAqrODaErE.twitter
+  domain: www.fosspatents.com
+  image: ""
+- curated_id: 6159cd29cd09db5cf44619b27a686784
+  item_date: "2016-05-08 00:00:00"
+  title: Oracle v. Google copyright retrial wont bring clarification on application
+    programming interfaces (APIs)
+  url: http://www.fosspatents.com/2016/05/oracle-v-google-copyright-retrial-wont.html
+  domain: www.fosspatents.com
+  image: ""
+- curated_id: dba30e17311d1ba346a353c985153a1f
+  item_date: "2016-05-09 07:05:22"
+  title: Second Oracle v. Google trial could lead to huge headaches for developers
+  url: http://arstechnica.com/tech-policy/2016/05/round-2-of-oracle-v-google-is-an-unpredictable-trial-over-api-fair-use/
+  domain: arstechnica.com
+  image: ""
+- curated_id: 331f7514dd2aadd9bae7176e0a3897b4
+  item_date: "2016-05-10 00:00:00"
+  title: Oracle claims Android has generated $42 billion in revenues for Google
+  url: http://www.zdnet.com/article/oracle-claims-android-has-generated-42-billion-in-revenues-for-google/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 9404f9aab3ae3d28ca746ffc60ec5ec4
+  item_date: "2016-05-11 00:00:00"
+  title: 'Bits: Oracle?s Suit Against Google Digs Up Old Bones'
+  url: http://www.nytimes.com/2016/05/12/technology/oracles-suit-against-google-digs-up-old-bones.html
+  domain: www.nytimes.com
+  image: ""
+- curated_id: eb12857d03f1790b2c62b51e82453024
+  item_date: "2016-05-12 00:00:00"
+  title: Mano a mano ? Oracle vs Google, a fight about open source
+  url: http://disruptiveviews.com/mano-a-mano-oracle-vs-google-a-fight-about-open-source/
+  domain: disruptiveviews.com
+  image: ""
+- curated_id: 339d86283620da6bfe6613c2d88da1ca
+  item_date: "2016-05-12 00:00:00"
+  title: Google Foreshadows Legal Strategy in Epic API Copyright Case Against Oracle
+  url: http://www.programmableweb.com/news/google-foreshadows-legal-strategy-epic-api-copyright-case-against-oracle/analysis/2016/05/12
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: f6f3774d5e2718ba2e0cc2384df3eab9
+  item_date: "2016-05-12 00:00:00"
+  title: 'The biggest problem for the Oracle v. Google retrial: Judge Alsups reality
+    distortion field'
+  url: http://www.fosspatents.com/2016/05/the-biggest-problem-for-oracle-v-google.html
+  domain: www.fosspatents.com
+  image: ""
+- curated_id: 0e61d9fba85998b4431b3ae23911aa87
+  item_date: "2016-05-16 00:00:00"
+  title: What Does Oracle v. Google Mean to You?
+  url: https://dzone.com/articles/what-does-oracle-v-google-mean-to-you
+  domain: dzone.com
+  image: ""
+- curated_id: 3bbbd0ef7237ecf9f74c99b22594aa9f
+  item_date: "2016-05-16 09:05:30"
+  title: In Oracle v. Google, a Nerd Subculture Is on Trial
+  url: http://motherboard.vice.com/read/in-google-v-oracle-the-nerds-are-getting-owned
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: fa2e8e3fe771a972f9ebad2ddbf4a1bc
+  item_date: "2016-05-17 00:00:00"
+  title: Safra Catz frames Oracle v. Google fight in biblical terms
+  url: http://www.zdnet.com/article/safra-catz-frames-oracle-v-google-fight-in-biblical-terms/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 309f26b661281f2236099a92afb50956
+  item_date: "2016-05-18 00:00:00"
+  title: Oracle moves for judgment as a matter of law against Googles fair use defense
+    to Java copyright infringement
+  url: http://www.fosspatents.com/2016/05/oracle-moves-for-judgment-as-matter-of.html
+  domain: www.fosspatents.com
+  image: ""
+- curated_id: 4349c70315d04df2e5827ad586dff04e
+  item_date: "2016-05-19 00:00:00"
+  title: Oracle-Google Dispute Goes to Heart of Open-Source Software
+  url: http://www.nytimes.com/2016/05/20/technology/oracle-google-dispute-goes-to-heart-of-open-source-software.html
+  domain: www.nytimes.com
+  image: ""
+- curated_id: d7db394b38cbd74e79600a7746b8329e
+  item_date: "2016-05-19 00:00:00"
+  title: Larry Page defends Googles use of Java APIs
+  url: http://www.zdnet.com/article/larry-page-defends-googles-use-of-java-apis/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: f1ce9ef672707cb4c9437e99645d0c2c
+  item_date: "2016-05-23 00:00:00"
+  title: Oracle, Google give closing arguments in Java API copyright case
+  url: http://www.zdnet.com/article/oracle-google-give-closing-arguments-in-java-api-copyright-case/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 40abfd3d83390c75960aa4745ffd7acf
+  item_date: "2016-05-23 00:00:00"
+  title: The Oracle-google Case Will Decide The Future Of Software
+  url: http://bestthenews.com/article/oracle-google-case-will-decide-future-software-mon-05232016-1324.html
+  domain: bestthenews.com
+  image: ""
+- curated_id: 88b8c2ba1e2a4bb7d47c19f01adab348
+  item_date: "2016-05-24 00:00:00"
+  title: Oracle vs Google reaching the conclusion ? final arguments
+  url: http://disruptiveviews.com/oracle-vs-google-reaching-conclusion-final-arguments/
+  domain: disruptiveviews.com
+  image: ""
+- curated_id: 49e488752d277f257613182ba00a4886
+  item_date: "2016-05-26 00:00:00"
+  title: Google Prevails as Jury Rebuffs Oracle in Code Copyright Case
+  url: http://www.nytimes.com/2016/05/27/technology/google-oracle-copyright-code.html
+  domain: www.nytimes.com
+  image: ""
+- curated_id: 55ebc4bd76a531987e10621d933192ce
+  item_date: "2016-05-26 00:00:00"
+  title: Google Beats Oracle in Java API Case
+  url: http://arstechnica.com/tech-policy/2016/05/google-wins-trial-against-oracle-as-jury-finds-android-is-fair-use/
+  domain: arstechnica.com
+  image: ""
+- curated_id: 551cfd69fc1d9981edc0fab7baf317c7
+  item_date: "2016-05-26 00:00:00"
+  title: Google prevails over Oracle in copyright infringement case
+  url: http://www.zdnet.com/article/google-prevails-over-oracle-in-copyright-infringement-case/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 25ad3c9870efeca06275bc7a59f98bd2
+  item_date: "2016-05-26 00:00:00"
+  title: Google won its lawsuit against Oracle
+  url: http://www.businessinsider.com/google-won-its-lawsuit-against-oracle-2016-5
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: 40ff98c925bb0849b11f815352c9a8e4
+  item_date: "2016-05-26 00:00:00"
+  title: Google wins Oracle copyright fight over Android code
+  url: http://www.theverge.com/2016/5/26/11754002/oracle-google-verdict-copyright-infringement-ruling-api-fair-use
+  domain: www.theverge.com
+  image: ""
+- curated_id: 85e5d7dc1f3a54b4453b63a0770a0516
+  item_date: "2016-05-26 00:00:00"
+  title: Why the Oracle-Google Jury Got It Right
+  url: http://www.law.com/sites/almstaff/2016/05/26/why-the-oracle-google-jury-got-it-right/
+  domain: www.law.com
+  image: ""
+- curated_id: 1dc1fbbe496cb0513759441a39945e4a
+  item_date: "2016-05-27 00:00:00"
+  title: Google Beats Oracle In Java Copyright Case
+  url: http://frontlinedesk.com/2016/05/28/google-beats-oracle-in-java-copyright-case.html
+  domain: frontlinedesk.com
+  image: ""
+- curated_id: 6637acd38b3ec7b128dc2a24a53a9cb1
+  item_date: "2016-05-27 00:00:00"
+  title: 'Bits: Google Bests Oracle in Court, but the Fight Isn?t Over'
+  url: http://www.nytimes.com/2016/05/28/technology/google-bests-oracle-in-court-but-the-fight-isnt-over.html
+  domain: www.nytimes.com
+  image: ""
+- curated_id: 3339039c54aaa08a211751f43ae6a7e8
+  item_date: "2016-05-27 00:00:00"
+  title: Google Beats Oracle in Copyright Case, Wont Have to Pay $9 Billion
+  url: http://thevillagessuntimes.com/2016/05/28/google-beats-oracle-in-copyright-case-wont-have-to-pay-9/
+  domain: thevillagessuntimes.com
+  image: ""
+- curated_id: fb7905e3566ff0dccbe07230367d5e8c
+  item_date: "2016-05-27 00:00:00"
+  title: 'Oracle vs Google: Where are the Oracle Supporters?'
+  url: https://dzone.com/articles/oracle-vs-google-is-anyone-rooting-for-oracle
+  domain: dzone.com
+  image: ""
+- curated_id: 192bcf076c2ae9bf505728f5ba15c798
+  item_date: "2016-05-27 00:00:00"
+  title: 'Google wins battle with Oracle: Game-changer for Silicon Valley?'
+  url: http://www.csmonitor.com/Technology/2016/0527/Why-many-in-Silicon-Valley-breathed-sigh-of-relief-at-Google-Oracle-ruling
+  domain: www.csmonitor.com
+  image: ""
+- curated_id: ed9f788204761eef7b43890baaea7779
+  item_date: "2016-05-27 00:00:00"
+  title: 'Google v. Oracle Fair Use Victory: How Did We Get Here?'
+  url: https://www.publicknowledge.org/news-blog/blogs/google-v.-oracle-fair-use-victory-how-did-we-get-here
+  domain: www.publicknowledge.org
+  image: ""
+- curated_id: 933c7d25efc7d326c209260f1dfc95bd
+  item_date: "2016-05-28 00:00:00"
+  title: Google Beats Oracle, Java APIs in Android are Fair Use
+  url: http://leadercall.com/2016/05/google-beats-oracle-java-apis-in-android-are-fair-use/
+  domain: leadercall.com
+  image: ""
+- curated_id: 55ee717b7eee1583706eb431d929e512
+  item_date: "2016-05-29 00:00:00"
+  title: Google prevails in Java license legal fight with Oracle
+  url: http://solonews.net/397105/news/google-prevails-in-java-license-legal-fight-with-oracle.html
+  domain: solonews.net
+  image: ""
+- curated_id: 7fdc53f27c85492ee57865b1120b9679
+  item_date: "2016-06-06 00:00:00"
+  title: How Oracle won by losing against Google
+  url: http://www.techcentral.co.za/how-oracle-won-by-losing-against-google/65867/
+  domain: www.techcentral.co.za
+  image: ""
+- curated_id: 593cfba89c841842f644964da98b4191
+  item_date: "2016-06-16 00:00:00"
+  title: 'Wikimedia to US: Don?t fix what isn?t broken in copyright law'
+  url: https://blog.wikimedia.org/2016/06/16/copyright-law/
+  domain: blog.wikimedia.org
+  image: ""
+- curated_id: 894c108b6904ff8d1e21e6a3255919ff
+  item_date: "2016-06-26 00:00:00"
+  title: Let European copyright catch up with reality
+  url: http://blog.wikimedia.org/2016/06/26/european-copyright-more-freedom/
+  domain: blog.wikimedia.org
+  image: ""
+- curated_id: 317d748d0be60577e8908da093ddfa67
+  item_date: "2016-07-05 00:00:00"
+  title: Google wants Oracles lawyer to be punished for revealing its business deal
+    with Apple
+  url: http://www.businessinsider.com/google-wants-oracles-lawyer-to-be-fined-2016-7
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: b7e087b4836a54326a3827772a54a10e
+  item_date: "2016-07-05 00:00:00"
+  title: Google asks court to sanction Oracle for revealing details of Apple deal
+  url: http://www.zdnet.com/article/google-asks-court-to-sanction-oracle-for-revealing-details-of-apple-deal/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 6025a1debe8f8b739d9877776a8499df
+  item_date: "2016-07-07 00:00:00"
+  title: Oracle moves for new copyright trial against Google, renews motion for judgment
+    as a matter of law
+  url: http://www.fosspatents.com/2016/07/oracle-moves-for-new-copyright-trial.html
+  domain: www.fosspatents.com
+  image: ""
+- curated_id: 320232981a19d5cd0109d6afc9a7f69f
+  item_date: "2016-07-19 00:00:00"
+  title: Copyright Roundup, Part III | Copyright Corner
+  url: https://library.osu.edu/blogs/copyright/2016/07/19/copyright-roundup-part-iii/
+  domain: library.osu.edu
+  image: ""
+- curated_id: cbab0ef5f8e67137b99daebb739674ff
+  item_date: "2016-07-20 00:00:00"
+  title: More Copyright Law ? Less Copyright Infringement
+  url: https://www.eff.org/deeplinks/2016/07/more-copyright-law-less-copyright-infringement
+  domain: www.eff.org
+  image: ""
+- curated_id: 4821c3f42295a3bef7573382e71ab349
+  item_date: "2016-07-21 00:00:00"
+  title: Blockai uses the blockchain to protect your copyright and find those infringing
+    on it
+  url: http://thenextweb.com/insider/2016/07/22/blockai-uses-the-blockchain-to-protect-your-copyright-and-find-those-infringing-on-it/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 3c6f55d209b49981172da5c1f2fc4625
+  item_date: "2016-07-29 00:00:00"
+  title: New Tool to Help Notify Users When Their Content is Taken Offline
+  url: https://www.eff.org/deeplinks/2016/07/new-tool-help-notify-users-when-their-content-taken-offline
+  domain: www.eff.org
+  image: ""
+- curated_id: 2070b611a81febcf2f17f1f6daa416ce
+  item_date: "2016-08-01 00:00:00"
+  title: Don?t Wrap Anti-Competitive Pay-TV Practices In A Copyright Flag
+  url: https://www.eff.org/deeplinks/2016/08/dont-wrap-anti-competitive-pay-tv-practices-copyright-flag
+  domain: www.eff.org
+  image: ""
+- curated_id: 1aa3e031bf836b3e09a4158ca58370b3
+  item_date: "2016-08-03 00:00:00"
+  title: 'Lawsuit: Getty Images copyfrauded 47,000 photos from indie press agency
+    Zuma'
+  url: http://boingboing.net/2016/08/03/lawsuit-getty-images-copyfrau.html
+  domain: boingboing.net
+  image: ""
+- curated_id: 5221d22a30af2166ef9542d8798c9283
+  item_date: "2016-08-03 00:00:00"
+  title: Copyright Office Jumps Into Set-Top Box Debate, Says Hollywood Should Control
+    Your TV
+  url: https://www.eff.org/deeplinks/2016/08/copyright-office-jumps-set-top-box-debate-says-hollywood-should-control-your-tv
+  domain: www.eff.org
+  image: ""
+- curated_id: 9e2a2bd46c8d4dd2f3b4354d9f2cfb48
+  item_date: "2016-08-04 00:00:00"
+  title: 'Copyright Office to FCC: Hollywood should be able to killswitch your TV'
+  url: http://boingboing.net/2016/08/04/copyright-office-to-fcc-holly.html
+  domain: boingboing.net
+  image: ""
+- curated_id: 29c86b600c60d2e9a314c999f398ee6d
+  item_date: "2016-08-09 00:00:00"
+  title: Copyright Office Urges FCC To Rethink Set-Top Plans
+  url: http://www.pcmag.com/news/346844/copyright-office-urges-fcc-to-rethink-set-top-plans
+  domain: www.pcmag.com
+  image: ""
+- curated_id: deeb6112e5cfd6843ac58a3c40f8ec6b
+  item_date: "2016-08-17 00:00:00"
+  title: Judge may order a new Oracle v. Google retrial over evidence unwisely withheld
+    by Google
+  url: http://www.fosspatents.com/2016/08/judge-may-order-new-oracle-v-google.html
+  domain: www.fosspatents.com
+  image: ""
+- curated_id: 25c5651f4f21e423602a69eb4c522e66
+  item_date: "2016-08-17 00:00:00"
+  title: "Oracle Says Google Didn?t Play Fair, Wants Third Trial (Oh God)\r\n"
+  url: http://motherboard.vice.com/read/oracle-says-google-didnt-play-fair-wants-third-trial-oh-god
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: 0e8ed1a3467bdbec14588dd02d5d688b
+  item_date: "2016-08-18 00:00:00"
+  title: Blockai for Twitter ? Claim the copyright for your photos using Twitter
+  url: https://blockai.com/twitter
+  domain: blockai.com
+  image: ""
+- curated_id: 1e0676d511ada49b875dc690bcb493a3
+  item_date: "2016-08-25 00:00:00"
+  title: Oracle pushing hard for Android-Java re-retrial while Google fails to justify
+    its lies to the jury
+  url: http://www.fosspatents.com/2016/08/oracle-pushing-hard-for-android-java-re.html
+  domain: www.fosspatents.com
+  image: ""
+- curated_id: c1bf530b06b1a666183bf5acb34b4534
+  item_date: "2016-08-26 00:00:00"
+  title: European Copyright Leak Exposes Plans to Force the Internet to Subsidize
+    Publishers
+  url: https://www.eff.org/deeplinks/2016/08/european-copyright-leak-exposes-plans-force-internet-subsidize-publishers
+  domain: www.eff.org
+  image: ""
+- curated_id: 5675c65e7e96ff2254748b91ed4e8879
+  item_date: "2016-08-29 00:00:00"
+  title: How the Idea of Copyrighting APIs Stifles Innovation and Growth
+  url: http://www.programmableweb.com/news/how-idea-copyrighting-apis-stifles-innovation-and-growth/elsewhere-web/2016/08/29
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 4539fbd6ff3c54ba93c91c7b35296831
+  item_date: "2016-08-31 00:00:00"
+  title: Latest Leak Confirms European Copyright Plans Offer Little for Users
+  url: https://www.eff.org/deeplinks/2016/08/unambitious-european-copyright-plans-offer-little-users
+  domain: www.eff.org
+  image: ""
+- curated_id: 6ed1d4c2168d2985d1b9b32f2074a45a
+  item_date: "2016-09-03 13:27:43"
+  title: Lawrence Lessig, An Interview with Lawrence Lessig on Copyrights
+  url: http://www.econlib.org/library/Columns/y2003/Lessigcopyright.html
+  domain: www.econlib.org
+  image: ""
+- curated_id: a6b699b9418ed110ce116b22a035240d
+  item_date: "2016-09-03 13:28:37"
+  title: The Fight against Intellectual Property
+  url: https://mises.org/library/fight-against-intellectual-property
+  domain: mises.org
+  image: ""
+- curated_id: a7a4374a5c9cc61a92208acc3b8bcf11
+  item_date: "2016-09-06 00:00:00"
+  title: Govt Includes Internet Broadcasting Under Copyright Act
+  url: http://www.cxotoday.com/story/govt-includes-internet-broadcasting-under-copyright-act/
+  domain: www.cxotoday.com
+  image: ""
+- curated_id: 137ba8bb6d13604581ae385dca569957
+  item_date: "2016-09-08 00:00:00"
+  title: 'EFF to Court: Publics Right to Access the Law Should Not be Blocked by Bogus
+    Copyright Case '
+  url: https://www.eff.org/press/releases/eff-court-industry-groups-bogus-copyright-case-will-block-public-access-written-laws
+  domain: www.eff.org
+  image: ""
+- curated_id: 1c753a51a7d4d349c7621fd26bc34224
+  item_date: "2016-09-08 13:23:12"
+  title: The US Copyright Office is the poster child for regulatory capture
+  url: https://boingboing.net/2016/09/08/the-us-copyright-office-is-the.html
+  domain: boingboing.net
+  image: ""
+- curated_id: 0dbd5a732461869fb164ba7bfe498971
+  item_date: "2016-09-09 00:00:00"
+  title: 'EU: Linking to Copyrighted Content Is Illegal'
+  url: http://www.pcmag.com/news/347754/eu-linking-to-copyrighted-content-is-illegal
+  domain: www.pcmag.com
+  image: ""
+- curated_id: 0a27c24ac5ae5dd0daf8ee0dbeb0399e
+  item_date: "2016-09-09 00:00:00"
+  title: Why we?re fighting to protect noncommercial uses
+  url: https://creativecommons.org/2016/09/09/why-were-fighting-to-protect-noncommercial-uses/
+  domain: creativecommons.org
+  image: ""
+- curated_id: 9df4c1788d5e6f24507c60eddde2f89d
+  item_date: "2016-09-09 00:00:00"
+  title: European court rules that making a link can be copyright infringement
+  url: http://boingboing.net/2016/09/09/european-court-rules-that-maki.html
+  domain: boingboing.net
+  image: ""
+- curated_id: 6e4185c4cbc9c380928fb07907ef57fd
+  item_date: "2016-09-10 22:09:22"
+  title: In copyright law, computers and robots don?t count.
+  url: http://www.slate.com/articles/technology/future_tense/2016/08/in_copyright_law_computers_and_robots_don_t_count.html
+  domain: www.slate.com
+  image: ""
+- curated_id: 11ee1c01d8eb414fdf9bcf20b0653b02
+  item_date: "2016-09-10 22:09:44"
+  title: 'Coding Creativity: Copyright and the Artificially Intelligent Author by
+    Annemarie Bridy'
+  url: http://papers.ssrn.com/sol3/papers.cfm
+  domain: papers.ssrn.com
+  image: ""
+- curated_id: fe409094dd7588c7401714d1276fe239
+  item_date: "2016-09-12 12:50:04"
+  title: Captured - Systemic Bias at the US Copyright Office final
+  url: https://www.publicknowledge.org/assets/uploads/blog/Final_Captured_Systemic_Bias_at_the_US_Copyright_Office.pdf
+  domain: www.publicknowledge.org
+  image: ""
+- curated_id: fdda8539ab57072df5f0d626de8c2512
+  item_date: "2016-09-13 00:00:00"
+  title: Copyright Shouldnt Hold Technology Back
+  url: https://www.eff.org/deeplinks/2016/09/copyright-shouldnt-hold-technology-back
+  domain: www.eff.org
+  image: ""
+- curated_id: 66372d9b32fad73c0852a705dceade72
+  item_date: "2016-09-14 00:00:00"
+  title: European Commission Copyright Proposal Leaves Users In The Dark
+  url: https://creativecommons.org/2016/09/14/european-commission-copyright-proposal-leaves-users-dark/
+  domain: creativecommons.org
+  image: ""
+- curated_id: 83e4cda1cdfb4aa855759d6ffe29a858
+  item_date: "2016-09-22 00:00:00"
+  title: Copyright Loophole Could Undermine Important Consumer Protection Bill
+  url: https://www.eff.org/deeplinks/2016/09/copyright-loophole-could-undermine-important-consumer-protection-bill
+  domain: www.eff.org
+  image: ""
+- curated_id: d35df872300adc78cc03c5e323bc3eaf
+  item_date: "2016-09-23 00:00:00"
+  title: ""
+  url: http://education.okfn.org/we-need-to-get-a-better-copyright-for-education/
+  domain: education.okfn.org
+  image: ""
+- curated_id: 51278bcfa33f0b5beb43ac00b583c47c
+  item_date: "2016-09-26 00:00:00"
+  title: European Allows Copyright Owners to Demand Open Wifi Networks be Password
+    Protected
+  url: https://www.eff.org/deeplinks/2016/09/european-allows-copyright-owners-demand-open-wifi-networks-be-password-protected
+  domain: www.eff.org
+  image: ""
+- curated_id: a54f78ea988f2245b7c63970acd4be38
+  item_date: "2016-09-27 00:00:00"
+  title: Mozilla trolls the EU?s nonsensical copyright laws with classic memes
+  url: http://thenextweb.com/insider/2016/09/27/mozilla-eu-copyright-law/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 2ac1f305625f1af6668826fb810d85cc
+  item_date: "2016-09-27 00:00:00"
+  title: Oracle denied new trial in copyright dispute with Google over Java
+  url: http://www.pcworld.com/article/3125113/oracle-denied-new-trial-in-copyright-dispute-with-google-over-java.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: 03f9d2656a15c9409e942af4ca134fad
+  item_date: "2016-10-11 00:00:00"
+  title: The Copyright Office wants your comments on whether it should be illegal
+    to fix your own stuff
+  url: http://boingboing.net/2016/10/11/the-copyright-office-wants-you.html
+  domain: boingboing.net
+  image: ""
+- curated_id: c52514dcf1073e0a78643ebc42eb912e
+  item_date: "2016-10-14 00:00:00"
+  title: EU Member States Should Push To Improve Commission?s Disappointing Copyright
+    Proposal
+  url: https://creativecommons.org/2016/10/14/eu-member-states-push-improve-commissions-disappointing-copyright-proposal/
+  domain: creativecommons.org
+  image: ""
+- curated_id: 596586576137b0fe96f1f8e9c045a88f
+  item_date: "2016-10-14 12:50:24"
+  title: 'Tweet: Copyright on the Campaign Trail: how political campaigns rely on
+    #FairUse https://t.co/OuVDNnRb73 via @recreateco https://t.co/Gu1Jo3iOiP'
+  url: http://www.realclearpolicy.com/blog/2016/10/13/copyright_on_the_campaign_trail_1736.html
+  domain: www.realclearpolicy.com
+  image: ""
+- curated_id: da3a7b3ac2e0834a040545d5a8135b5f
+  item_date: "2016-10-15 10:20:26"
+  title: On CC0 ? Medium
+  url: https://medium.com/@dajbelshaw/on-cc0-509dc4a08a4d#.xcpvtsumw
+  domain: medium.com
   image: ""
 ...

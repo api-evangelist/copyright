@@ -60,17 +60,17 @@
   url: http://www.mashery.com/blog/apis-are-changing-game-data-delivery
   domain: www.mashery.com
   image: ""
-- curated_id: 289221dd5d565554241cfaa21d523337
-  item_date: "2013-04-25 00:00:00"
-  title: Designing APIs for Humans
-  url: http://john-sheehan.com/blog/designing-apis-for-humans
-  domain: john-sheehan.com
-  image: ""
 - curated_id: e9ebc496165058eaa156361fbc7caf08
   item_date: "2013-04-25 00:00:00"
   title: Sports  APIs ? A Perfect Fit
   url: http://www.mashery.com/blog/sports-apis-%e2%80%93-perfect-fit
   domain: www.mashery.com
+  image: ""
+- curated_id: 289221dd5d565554241cfaa21d523337
+  item_date: "2013-04-25 00:00:00"
+  title: Designing APIs for Humans
+  url: http://john-sheehan.com/blog/designing-apis-for-humans
+  domain: john-sheehan.com
   image: ""
 - curated_id: 5a32cf53a9ea13fe53368a84fb3896dc
   item_date: "2013-04-26 00:00:00"
@@ -216,17 +216,17 @@
   url: http://apigee.com/about/blog/developer/api-design-honing-hateoas
   domain: apigee.com
   image: ""
-- curated_id: f84efa3faafb3c499ef588dfbe3f4886
-  item_date: "2013-06-19 00:00:00"
-  title: When Good API Design is a Waste of Time
-  url: http://www.apiacademy.co/blogs/when-good-api-design-is-a-waste-of-time/
-  domain: www.apiacademy.co
-  image: ""
 - curated_id: 7d6aae70c8bbdb726c78e4fa13017f9e
   item_date: "2013-06-19 00:00:00"
   title: Data-Driven Aesthetics
   url: http://www.nytimes.com/glogin/URI=http://bits.blogs.nytimes.com/2013/06/19/data-driven-aesthetics/&amp;OQ=_rQ3D0&amp;OP=54867341Q2FfQ3B9Q51fbhXf555fzXJefG7d.
   domain: www.nytimes.com
+  image: ""
+- curated_id: f84efa3faafb3c499ef588dfbe3f4886
+  item_date: "2013-06-19 00:00:00"
+  title: When Good API Design is a Waste of Time
+  url: http://www.apiacademy.co/blogs/when-good-api-design-is-a-waste-of-time/
+  domain: www.apiacademy.co
   image: ""
 - curated_id: 7df783f9d31f00753c2b5b97376c4e45
   item_date: "2013-06-20 00:00:00"
@@ -270,17 +270,17 @@
   url: https://www.3scale.net/2013/07/api-crafting-secrets-into-flightstats-apis/
   domain: www.3scale.net
   image: ""
-- curated_id: 2c0189ef6c30e8c4df68649b0f7e065a
-  item_date: "2013-07-03 00:00:00"
-  title: Signs youre veering from good API design
-  url: http://blog.apiaxle.com/post/signs-youre-veering-from-good-api-design/
-  domain: blog.apiaxle.com
-  image: ""
 - curated_id: 4bab1969403f9a4252dfb4eaeadb1a70
   item_date: "2013-07-03 00:00:00"
   title: 'API Design: Harnessing HATEOAS, Part 2'
   url: https://blog.apigee.com/detail/api_design_harnessing_hateoas_part_2
   domain: blog.apigee.com
+  image: ""
+- curated_id: 2c0189ef6c30e8c4df68649b0f7e065a
+  item_date: "2013-07-03 00:00:00"
+  title: Signs youre veering from good API design
+  url: http://blog.apiaxle.com/post/signs-youre-veering-from-good-api-design/
+  domain: blog.apiaxle.com
   image: ""
 - curated_id: 201c016c59919bcda0cb928cb64dfecf
   item_date: "2013-07-04 00:00:00"
@@ -324,17 +324,17 @@
   url: http://www.mashery.com/blog/future-tv-and-apis
   domain: www.mashery.com
   image: ""
-- curated_id: e95a34a87e95bfdab6b0b829eff0a206
-  item_date: "2013-08-06 00:00:00"
-  title: HOW USA TODAYS API POWERS PARTNERSHIPS
-  url: http://www.mashery.com/blog/how-usa-todays-api-powers-partnerships
-  domain: www.mashery.com
-  image: ""
 - curated_id: 1b7ea2d3b299e9b1a7e87fb83f3b3108
   item_date: "2013-08-06 00:00:00"
   title: The Importance of Impermanence in API Design
   url: http://www.programmableweb.com/news/importance-impermanence-api-design/2013/08/06
   domain: www.programmableweb.com
+  image: ""
+- curated_id: e95a34a87e95bfdab6b0b829eff0a206
+  item_date: "2013-08-06 00:00:00"
+  title: HOW USA TODAYS API POWERS PARTNERSHIPS
+  url: http://www.mashery.com/blog/how-usa-todays-api-powers-partnerships
+  domain: www.mashery.com
   image: ""
 - curated_id: 469b18b3569635cfbf6d725bb6c6da5b
   item_date: "2013-08-08 00:00:00"
@@ -348,6 +348,18 @@
   url: https://dzone.com/articles/secrets-awesome-javascript-api
   domain: dzone.com
   image: ""
+- curated_id: 6350da14586b319eb98c4a37dff14636
+  item_date: "2013-08-20 00:00:00"
+  title: 'Api Design, Part 1: Rest Is The Leading But Not Only...'
+  url: https://www.forrester.com/report/API+Design+Part+1+REST+Is+The+Leading+But+Not+Only+Option+For+Your+APIs/-/E-RES102021
+  domain: www.forrester.com
+  image: ""
+- curated_id: 3b2b75b8e4651a1f5ff4c19cfa89adfc
+  item_date: "2013-08-20 00:00:00"
+  title: 'Api Design, Part 4: Future-proof And Secure Your Apis...'
+  url: https://www.forrester.com/report/API+Design+Part+4+FutureProof+And+Secure+Your+APIs+To+Fit+Your+Usage+Scenarios/-/E-RES102024
+  domain: www.forrester.com
+  image: ""
 - curated_id: 7785d938c648fb3319535d2273439564
   item_date: "2013-08-20 00:00:00"
   title: 'Api Design, Part 2: Design Messaging Styles By Balancing...'
@@ -358,18 +370,6 @@
   item_date: "2013-08-20 00:00:00"
   title: 'Api Design, Part 3: Make Transactions And Error Handling...'
   url: https://www.forrester.com/report/API+Design+Part+3+Make+Transactions+And+Error+Handling+Clear+In+Your+API+Designs/-/E-RES102023
-  domain: www.forrester.com
-  image: ""
-- curated_id: 3b2b75b8e4651a1f5ff4c19cfa89adfc
-  item_date: "2013-08-20 00:00:00"
-  title: 'Api Design, Part 4: Future-proof And Secure Your Apis...'
-  url: https://www.forrester.com/report/API+Design+Part+4+FutureProof+And+Secure+Your+APIs+To+Fit+Your+Usage+Scenarios/-/E-RES102024
-  domain: www.forrester.com
-  image: ""
-- curated_id: 6350da14586b319eb98c4a37dff14636
-  item_date: "2013-08-20 00:00:00"
-  title: 'Api Design, Part 1: Rest Is The Leading But Not Only...'
-  url: https://www.forrester.com/report/API+Design+Part+1+REST+Is+The+Leading+But+Not+Only+Option+For+Your+APIs/-/E-RES102021
   domain: www.forrester.com
   image: ""
 - curated_id: 75e378f435ff8be00494caeb7c1a867b
@@ -565,17 +565,17 @@
   url: https://18fblog.tumblr.com/post/91868213233/hot-off-the-press-18fs-api-standards#_=_
   domain: 18fblog.tumblr.com
   image: ""
-- curated_id: b35ca6ab6a4b739481554bdb3058feba
-  item_date: "2014-07-16 00:00:00"
-  title: 'Hot off the Press: 18F?s API Standards'
-  url: http://www.digitalgov.gov/2014/07/16/hot-off-the-press-18fs-api-standards/
-  domain: www.digitalgov.gov
-  image: ""
 - curated_id: d0a5488ff945ef7e4b610182363f2576
   item_date: "2014-07-16 00:00:00"
   title: 'The Real World Cup Winner: APIs'
   url: http://blogs.mulesoft.com/biz/api-enable-world-cup-2014/
   domain: blogs.mulesoft.com
+  image: ""
+- curated_id: b35ca6ab6a4b739481554bdb3058feba
+  item_date: "2014-07-16 00:00:00"
+  title: 'Hot off the Press: 18F?s API Standards'
+  url: http://www.digitalgov.gov/2014/07/16/hot-off-the-press-18fs-api-standards/
+  domain: www.digitalgov.gov
   image: ""
 - curated_id: 4479b9fe854a19ff7229c47017279553
   item_date: "2014-07-18 00:00:00"
@@ -595,17 +595,17 @@
   url: http://blogs.mulesoft.com/biz/dont-just-throw-apis/
   domain: blogs.mulesoft.com
   image: ""
-- curated_id: 1c1727e9a786adca35fda6c640c2fead
-  item_date: "2014-07-25 00:00:00"
-  title: Upcoming Webinar ? Integrating Salesforce and SAP
-  url: http://blogs.mulesoft.com/biz/saas/sfdc-sap-unlock-back-office/
-  domain: blogs.mulesoft.com
-  image: ""
 - curated_id: 5bf217a33b290a540d4635a26e3d9042
   item_date: "2014-07-25 00:00:00"
   title: 'APIs: The Key to Surviving a Zombie Apocalypse?'
   url: http://www.mashery.com/blog/apis-key-surviving-zombie-apocalypse
   domain: www.mashery.com
+  image: ""
+- curated_id: 1c1727e9a786adca35fda6c640c2fead
+  item_date: "2014-07-25 00:00:00"
+  title: Upcoming Webinar ? Integrating Salesforce and SAP
+  url: http://blogs.mulesoft.com/biz/saas/sfdc-sap-unlock-back-office/
+  domain: blogs.mulesoft.com
   image: ""
 - curated_id: f9341875db4741c665f688baba989ff3
   item_date: "2014-07-25 11:55:18"
@@ -613,18 +613,18 @@
   url: https://www.sitepoint.com/best-practices-rest-api-scratch-introduction/
   domain: www.sitepoint.com
   image: ""
+- curated_id: 8f20b2c8123ae0f36b7f3af33b4fac00
+  item_date: "2014-07-30 00:00:00"
+  title: Introducing the Anypoint Platform for APIs
+  url: http://blogs.mulesoft.com/dev/release-anypoint-platform-api-2014-07/
+  domain: blogs.mulesoft.com
+  image: ""
 - curated_id: 2144cf7b6ae1e4945985a2841c5ed29d
   item_date: "2014-07-30 00:00:00"
   title: Reaffirming Intel Services? Connection with Developers and Open Source at
     OSCON
   url: http://www.mashery.com/blog/reaffirming-intel-services-connection-developers-and-open-source-oscon
   domain: www.mashery.com
-  image: ""
-- curated_id: 8f20b2c8123ae0f36b7f3af33b4fac00
-  item_date: "2014-07-30 00:00:00"
-  title: Introducing the Anypoint Platform for APIs
-  url: http://blogs.mulesoft.com/dev/release-anypoint-platform-api-2014-07/
-  domain: blogs.mulesoft.com
   image: ""
 - curated_id: 2be2689fece7524fe66f560e70b94512
   item_date: "2014-07-31 00:00:00"
@@ -674,17 +674,17 @@
   url: http://blogs.mulesoft.com/dev/integrating-mule-esb-net-based-rules-engines/
   domain: blogs.mulesoft.com
   image: ""
-- curated_id: 37a3c06d72eb59f098c847b5dc305918
-  item_date: "2014-08-20 00:00:00"
-  title: A drive by review of the Uber API
-  url: http://www.bizcoder.com:80/a-drive-by-review-of-the-uber-api
-  domain: www.bizcoder.com
-  image: ""
 - curated_id: f91d38bc30b0531338aee79fed15d1f5
   item_date: "2014-08-20 00:00:00"
   title: MuleSoft Summit Heads to Chicago  New York
   url: http://blogs.mulesoft.com/biz/events/mulesoft-summit-chicago-new-york/
   domain: blogs.mulesoft.com
+  image: ""
+- curated_id: 37a3c06d72eb59f098c847b5dc305918
+  item_date: "2014-08-20 00:00:00"
+  title: A drive by review of the Uber API
+  url: http://www.bizcoder.com:80/a-drive-by-review-of-the-uber-api
+  domain: www.bizcoder.com
   image: ""
 - curated_id: b39d33b47c455eb0e55ecf81c25c4f2c
   item_date: "2014-08-21 00:00:00"
@@ -698,11 +698,11 @@
   url: http://bizcoder.com/a-drive-by-review-of-the-uber-api
   domain: bizcoder.com
   image: ""
-- curated_id: 4a977ed1be744a47760380295c4f5849
+- curated_id: af215a5a5d4d60fc1548a7cb802929d7
   item_date: "2014-09-25 00:00:00"
-  title: 'API Readiness: do you have what you need?'
-  url: http://blog.smartbear.com/readyapi/api-readiness-do-you-have-what-you-need/
-  domain: blog.smartbear.com
+  title: WillowTree Apps Applies Service Virtualization to API Development
+  url: http://www.programmableweb.com/news/willowtree-apps-applies-service-virtualization-to-api-development/2014/09/25
+  domain: www.programmableweb.com
   image: ""
 - curated_id: 28c9a84532f4ffaf3b76dbd9d55f5d3b
   item_date: "2014-09-25 00:00:00"
@@ -710,11 +710,11 @@
   url: http://tehparadox.com/forum/f58/designing-apis-web-8395324/
   domain: tehparadox.com
   image: ""
-- curated_id: af215a5a5d4d60fc1548a7cb802929d7
+- curated_id: 4a977ed1be744a47760380295c4f5849
   item_date: "2014-09-25 00:00:00"
-  title: WillowTree Apps Applies Service Virtualization to API Development
-  url: http://www.programmableweb.com/news/willowtree-apps-applies-service-virtualization-to-api-development/2014/09/25
-  domain: www.programmableweb.com
+  title: 'API Readiness: do you have what you need?'
+  url: http://blog.smartbear.com/readyapi/api-readiness-do-you-have-what-you-need/
+  domain: blog.smartbear.com
   image: ""
 - curated_id: 4f731b9dd81637dcbb3d82793620fc2d
   item_date: "2014-09-26 00:00:00"
@@ -728,17 +728,17 @@
   url: http://rest-apithy.blogspot.ca/2014/11/readfielding.html
   domain: rest-apithy.blogspot.ca
   image: ""
-- curated_id: 36d1437b3e560ba212503bb255ed6d58
-  item_date: "2014-12-03 00:00:00"
-  title: Constructing URLs the easy way
-  url: http://www.bizcoder.com:80/constructing-urls-the-easy-way
-  domain: www.bizcoder.com
-  image: ""
 - curated_id: b789fc199a97d2842d86fad02496d760
   item_date: "2014-12-03 00:00:00"
   title: Restlet Studio, the First Cross-Language IDE for APIs
   url: http://restlet.com/blog/2014/12/03/restlet-studio-the-first-cross-language-ide-for-apis/
   domain: restlet.com
+  image: ""
+- curated_id: 36d1437b3e560ba212503bb255ed6d58
+  item_date: "2014-12-03 00:00:00"
+  title: Constructing URLs the easy way
+  url: http://www.bizcoder.com:80/constructing-urls-the-easy-way
+  domain: www.bizcoder.com
   image: ""
 - curated_id: c65247a5e357ab02c4b1d1e433a510c5
   item_date: "2014-12-23 00:00:00"
@@ -746,6 +746,12 @@
   url: http://www.windley.com//archives/2014/12/the_core_of_your_api.shtml
   domain: www.windley.com
   image: ""
+- curated_id: EI7haK43eN4QuUEK123zUqB6IWfA8cSZW77eoQ5fBGNm7YWVOtlxGJEykAI123wrhvGlVGDviU6tCgjqjoDG3m116dDw117117
+  item_date: "2015-01-06 00:00:00"
+  title: Does One API Description Language Fit an Entire Enterprise
+  url: https://blog.soa.com/does-one-api-description-language-fit-an-entire-enterprise/
+  domain: blog.soa.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-soa-comdoes-one-api-description-language-fit-an-entire-enterprise.png
 - curated_id: 8ioDhMuEfXB1I41S3RoLFtHpvKnAwBYDO1pQYXmjBtdFH4mKRO123yrCCWR6123aW9i1116LoMOjnfV0a2PC6U123zbgsg117117
   item_date: "2015-01-06 00:00:00"
   title: Connecting Our History At The Digital Public Library of America Using APIs
@@ -753,12 +759,6 @@
   url: http://apievangelist.com/2015/01/07/connecting-our-history-at-the-digital-public-library-of-america-using-apis-and-jsonld/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150107connecting-our-history-at-the-digital-public-library-of-america-using-apis-and-jsonld.png
-- curated_id: EI7haK43eN4QuUEK123zUqB6IWfA8cSZW77eoQ5fBGNm7YWVOtlxGJEykAI123wrhvGlVGDviU6tCgjqjoDG3m116dDw117117
-  item_date: "2015-01-06 00:00:00"
-  title: Does One API Description Language Fit an Entire Enterprise
-  url: https://blog.soa.com/does-one-api-description-language-fit-an-entire-enterprise/
-  domain: blog.soa.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-soa-comdoes-one-api-description-language-fit-an-entire-enterprise.png
 - curated_id: Mg806B8tgRQ9lJT7csi1SyudoAGPMEwQz2pDS2jJYK7J116hCWFjeHmXU1SUJlmN116cU6AAmQP4Wy0MzF2c5116OJGA117117
   item_date: "2015-01-06 19:30:12"
   title: Server Skeletons In Restlet Studio And APISpark
@@ -795,18 +795,18 @@
   url: https://blog.apiary.io/2015/02/17/Utilising-API-Blueprint-in-API-Clients
   domain: blog.apiary.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-apiary-io20150217utilising-api-blueprint-in-api-clients.png
-- curated_id: LWomzMZEGI3hzCApQQv4T2nOPmXLi27OUhkIZlZ2KxcU1l7Ej8X5ddj123mWsrTYa2jcan5iTvelrSymuS8DDkOg117117
-  item_date: "2015-02-18 00:00:00"
-  title: Community Debates API Specification Alternatives
-  url: https://www.infoq.com/news/2015/02/api-alternatives
-  domain: www.infoq.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comnews201502api-alternatives.png
 - curated_id: FN85XqYS9CtnEtF20HgFFQ7T8MF6hxyXOb1123cnACz88T2OOQwNxGdLoTHZIyd7NDqPNZoStbZj8jUY3YWzQJbg117117
   item_date: "2015-02-18 00:00:00"
   title: How API Description Languages Enable API IDEs
   url: http://www.programmableweb.com/news/how-api-description-languages-enable-api-ides/sponsored-content/2015/02/18
   domain: www.programmableweb.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewshow-api-description-languages-enable-api-idessponsored-content20150218.png
+- curated_id: LWomzMZEGI3hzCApQQv4T2nOPmXLi27OUhkIZlZ2KxcU1l7Ej8X5ddj123mWsrTYa2jcan5iTvelrSymuS8DDkOg117117
+  item_date: "2015-02-18 00:00:00"
+  title: Community Debates API Specification Alternatives
+  url: https://www.infoq.com/news/2015/02/api-alternatives
+  domain: www.infoq.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comnews201502api-alternatives.png
 - curated_id: tYkcl8KiATEfaiY1UmrH5lxtVcQmat6oNAlRqvraOl4hGud72qibADUwKesZCBVX7HADCB8L0A6O5TiUoytF2w117117
   item_date: "2015-02-19 00:00:00"
   title: Using Templates for Documentation Driven API Design
@@ -819,24 +819,24 @@
   url: http://blog.smartbear.com/programming/collaborators-new-external-api/
   domain: blog.smartbear.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-smartbear-comprogrammingcollaborators-new-external-api.png
-- curated_id: STHZs1a123L9FCgfWP94I0Sc5SihdhKqiKdYRIR0PK4lESe9PXk51P18QI780lIAg454DCBfmE8UBsuB1qInUpEQ117117
-  item_date: "2015-02-20 00:00:00"
-  title: API Best Practices The Wrap Up
-  url: http://blogs.mulesoft.com/dev/api-best-practices-wrap-up/
-  domain: blogs.mulesoft.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blogs-mulesoft-orgapi-best-practices-wrap-up.png
-- curated_id: dfpeX7taC2ZcEvHk8nOWTD7gcjfDUokg5p1tBJrVvtvA5Dy5cuxyXzD6aDowCGDTM336116G49ri7ZtOap0LE8RA117117
-  item_date: "2015-02-20 00:00:00"
-  title: MuleSoft Releases RAML NET Parser Visual Studio Extension
-  url: http://www.programmableweb.com/news/mulesoft-releases-raml-.net-parser-visual-studio-extension/2015/02/20
-  domain: www.programmableweb.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsmulesoft-releases-raml--net-parser-visual-studio-extension20150220.png
 - curated_id: QqzGfbBYOWSLnbhVr1233waluDL6Xr7cjQEBbS48JH4h8DoJ3ItBTQgdk7NTYAIWphcizVBI8rG2eKp4rPUKNnTA117117
   item_date: "2015-02-20 00:00:00"
   title: LucyBot Eliminates CrossLanguage Programming Necessity
   url: http://www.programmableweb.com/news/lucybot-eliminates-cross-language-programming-necessity/brief/2015/02/20
   domain: www.programmableweb.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewslucybot-eliminates-cross-language-programming-necessitybrief20150220.png
+- curated_id: dfpeX7taC2ZcEvHk8nOWTD7gcjfDUokg5p1tBJrVvtvA5Dy5cuxyXzD6aDowCGDTM336116G49ri7ZtOap0LE8RA117117
+  item_date: "2015-02-20 00:00:00"
+  title: MuleSoft Releases RAML NET Parser Visual Studio Extension
+  url: http://www.programmableweb.com/news/mulesoft-releases-raml-.net-parser-visual-studio-extension/2015/02/20
+  domain: www.programmableweb.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsmulesoft-releases-raml--net-parser-visual-studio-extension20150220.png
+- curated_id: STHZs1a123L9FCgfWP94I0Sc5SihdhKqiKdYRIR0PK4lESe9PXk51P18QI780lIAg454DCBfmE8UBsuB1qInUpEQ117117
+  item_date: "2015-02-20 00:00:00"
+  title: API Best Practices The Wrap Up
+  url: http://blogs.mulesoft.com/dev/api-best-practices-wrap-up/
+  domain: blogs.mulesoft.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blogs-mulesoft-orgapi-best-practices-wrap-up.png
 - curated_id: IIngeWuMGFGoJeAH2UXBSc2Gk6tk1hjLPM3H1nHX7uzGRz7kCQbVVspghX2XHAEjeDLnOvaOyVqzZgK0iq123ngA117117
   item_date: "2015-02-20 08:48:02"
   title: LucyBot  Get your APIs consumers moving faster
@@ -958,12 +958,6 @@
   url: http://apievangelist.com/2015/03/07/we-need-an-open-library-of-the-most-common-utility-api-implementations/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150307we-need-an-open-library-of-the-most-common-utility-api-implementations.png
-- curated_id: P123Lr1g8NW7vIDkK8Uck2FMoLTvFqh1k7xXuaxSUhUnQuXhYWVETqA7Zky3Sj0TRxxsaddroCKTvzazOQjFSq6g117117
-  item_date: "2015-03-09 00:00:00"
-  title: Ideal REST API design  betim drenicas blog
-  url: https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/
-  domain: betimdrenica.wordpress.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/betimdrenica-wordpress-com20150309ideal-rest-api-design.png
 - curated_id: gbfpHt0Jwf3HoWH356OoyJK6TNHO1236bulVYUI1X7fpmZ2tLVGLDEs18CyjQKjzjEixOmf9Y70V511681IKrUDOgg117117
   item_date: "2015-03-09 00:00:00"
   title: Targeting Some APIs In My Stack For House Cleaning And Maybe Some Design
@@ -971,6 +965,12 @@
   url: http://apievangelist.com/2015/03/10/targeting-some-apis-in-my-stack-for-house-cleaning-and-maybe-some-design-iterations/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150310targeting-some-apis-in-my-stack-for-house-cleaning-and-maybe-some-design-iterations.png
+- curated_id: P123Lr1g8NW7vIDkK8Uck2FMoLTvFqh1k7xXuaxSUhUnQuXhYWVETqA7Zky3Sj0TRxxsaddroCKTvzazOQjFSq6g117117
+  item_date: "2015-03-09 00:00:00"
+  title: Ideal REST API design  betim drenicas blog
+  url: https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/
+  domain: betimdrenica.wordpress.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/betimdrenica-wordpress-com20150309ideal-rest-api-design.png
 - curated_id: KifJPHJjge116hzyNwyAPGw6RcPJ28rB1232hRPvkVRxsVRiP3aBPqPIi9rDLULK9BozVBsy0HhANdyhMtGjTvc03w117117
   item_date: "2015-03-10 00:00:00"
   title: Facebook Applies Versioning Strategy to Marketing API
@@ -989,18 +989,18 @@
   url: https://www.linkedin.com/pulse/10-usability-lessons-apis-frederik-willaert
   domain: www.linkedin.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-linkedin-compulse10-usability-lessons-apis-frederik-willaert.png
-- curated_id: Av2FJeSKCad0VEgYgGkjP7i4DjkK1Vi5fLsEnE116x4Jxibz2rfvd4ejMC116RixcyQzOqGAgHnZnxo1zKaUrKn4116Q117117
-  item_date: "2015-03-16 00:00:00"
-  title: Why Your APIs Need Design Help
-  url: http://www.digitalgov.gov/2015/03/16/why-your-apis-need-design-help/
-  domain: www.digitalgov.gov
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-digitalgov-gov20150316why-your-apis-need-design-help.png
 - curated_id: 8N0vORPBzAphlJwelOIm1vZ92lcGcSyizjQMWUYVuSJooR9KAelEcO6VfzvU2H7zYM0qOxbs916AceItWLCK116g117117
   item_date: "2015-03-16 00:00:00"
   title: Designing a Web API
   url: http://restlet.com/blog/2015/03/16/designing-a-web-api/
   domain: restlet.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/restlet-comblog20150316designing-a-web-api.png
+- curated_id: Av2FJeSKCad0VEgYgGkjP7i4DjkK1Vi5fLsEnE116x4Jxibz2rfvd4ejMC116RixcyQzOqGAgHnZnxo1zKaUrKn4116Q117117
+  item_date: "2015-03-16 00:00:00"
+  title: Why Your APIs Need Design Help
+  url: http://www.digitalgov.gov/2015/03/16/why-your-apis-need-design-help/
+  domain: www.digitalgov.gov
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-digitalgov-gov20150316why-your-apis-need-design-help.png
 - curated_id: oaScIuYJH95jMntmiUXlBzUhwBWPWLLdx7MEZk1wjiF89dehNdvKoLmD6RcQA9rcHJz116MXkvWkA116TIhjufe5fA117117
   item_date: "2015-03-17 00:00:00"
   title: 20 API Design Tips to Stop Annoying Developers
@@ -1079,12 +1079,6 @@
   url: http://blog.dreamfactory.com/building-reusable-rest-api-services-part-3-of-4
   domain: blog.dreamfactory.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-dreamfactory-combuilding-reusable-rest-api-services-part-3-of-4.png
-- curated_id: EuE5mOS7NyO6nYo3OVo8dII5H7X123CcWGRRqRP6cjyAbL4K26UK123bomAMYhsbx6zQDoWodj29NCz1168xR1167qQ116hA117117
-  item_date: "2015-04-09 00:00:00"
-  title: 418 Im a teapot and other bad API responses
-  url: http://cloud-elements.com/418-im-a-teapot-and-other-bad-api-responses-restful-api-design/
-  domain: cloud-elements.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/cloud-elements-com418-im-a-teapot-and-other-bad-api-responses-restful-api-design.png
 - curated_id: ebd6eee3fa4e1ad13d565e732990eb97
   item_date: "2015-04-09 00:00:00"
   title: SoundCloud starts working with YouTubes partner to scan music for copyright
@@ -1092,6 +1086,12 @@
   url: http://www.theverge.com/2015/4/9/8376765/zefr-soundcloud-partner-copyright-detection
   domain: www.theverge.com
   image: ""
+- curated_id: EuE5mOS7NyO6nYo3OVo8dII5H7X123CcWGRRqRP6cjyAbL4K26UK123bomAMYhsbx6zQDoWodj29NCz1168xR1167qQ116hA117117
+  item_date: "2015-04-09 00:00:00"
+  title: 418 Im a teapot and other bad API responses
+  url: http://cloud-elements.com/418-im-a-teapot-and-other-bad-api-responses-restful-api-design/
+  domain: cloud-elements.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/cloud-elements-com418-im-a-teapot-and-other-bad-api-responses-restful-api-design.png
 - curated_id: wlXSFiShbdwrtcv1DNxs116OL116SsrJh1PSkX71ykyJrnJZqrPHFriFr3BStlCi6HxH9eeSxmDJe52sma2vPmZgQQ117117
   item_date: "2015-04-10 00:00:00"
   title: Solving Dropboxs URL Problems
@@ -1134,18 +1134,18 @@
   url: http://www.appscale.com/2015/03/05/what-does-it-mean-to-copyright-an-api/
   domain: www.appscale.com
   image: ""
-- curated_id: 123K4sLNI8Iq3J57G4P3qvRyS8luo116gzQGkQuop6gF6DB116123GidYE0116gbQ123UoPh9ftTYFXZYcgO0PkmTkQajR7KwQ117117
-  item_date: "2015-04-23 00:00:00"
-  title: The data the hypermedia and the documentation
-  url: http://apihandyman.io/the-data-the-hypermedia-and-the-documentation/
-  domain: apihandyman.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apihandyman-iothe-data-the-hypermedia-and-the-documentation.png
 - curated_id: a711add4c47958e4e343ff5f9d0cc1cb
   item_date: "2015-04-23 00:00:00"
   title: 6 Current Copyright Cases More Important Than Blurred Lines
   url: https://www.plagiarismtoday.com/2015/04/23/6-current-copyright-cases-more-important-than-blurred-lines/
   domain: www.plagiarismtoday.com
   image: ""
+- curated_id: 123K4sLNI8Iq3J57G4P3qvRyS8luo116gzQGkQuop6gF6DB116123GidYE0116gbQ123UoPh9ftTYFXZYcgO0PkmTkQajR7KwQ117117
+  item_date: "2015-04-23 00:00:00"
+  title: The data the hypermedia and the documentation
+  url: http://apihandyman.io/the-data-the-hypermedia-and-the-documentation/
+  domain: apihandyman.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apihandyman-iothe-data-the-hypermedia-and-the-documentation.png
 - curated_id: uzQKS9j4CWxC0jw46L6D86z4wgTClCjCKDm8gRg123dYDDFNg3Yg6123VB7A123cq8dHIOG1jlrhLChoL0vnD401L62w117117
   item_date: "2015-04-25 01:30:35"
   title: Api Design AntiPatterns
@@ -1208,36 +1208,36 @@
   url: http://restlet.com/blog/2015/05/20/restlet-and-smartbear-partner-to-deliver-restlet-studio-plugin-for-ready-api/
   domain: restlet.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/restlet-comblog20150520restlet-and-smartbear-partner-to-deliver-restlet-studio-plugin-for-ready-api.png
-- curated_id: 0RlbclclakYqrpBkU1116CCDN6IbxoulxNCGvTLxNE8P1qJSRIwHMIPiIH0diua4OP116MJnWyKkQf6zf0116jZiWhYw117117
-  item_date: "2015-05-21 00:00:00"
-  title: Apigee API Studio Designing Testing and Sharing APIs
-  url: http://www.infoq.com/news/2015/05/apigee-api-studio
-  domain: www.infoq.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comnews201505apigee-api-studio.png
-- curated_id: Bs2hh71239NRJJ123123IBB9wcK7NZJZjhEIz1Hea67EEI0KB35123j28NaT08jBbSGxsarnQW116DhQ721164116Pm7tF2Ipn5Q117117
-  item_date: "2015-05-21 00:00:00"
-  title: 7 Important API Design Lessons
-  url: http://nordicapis.com/7-api-design-lessons-world-tour-roundup/
-  domain: nordicapis.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-com7-api-design-lessons-world-tour-roundup.png
 - curated_id: aSdL9MjYhohCUm22j7gioM123xw9NVf5j952Lu80Elw32J8wGj8ePV24T2zSEQAvUYliq1qZuYPHNl9CPl8nbNjQ117117
   item_date: "2015-05-21 00:00:00"
   title: Apigee adds some Swagger to API design
   url: http://www.pcadvisor.co.uk/news/software/apigee-adds-some-swagger-to-api-design-3612750/
   domain: www.pcadvisor.co.uk
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-pcadvisor-co-uknewssoftware3612750apigee-adds-some-swagger-to-api-design.png
-- curated_id: E9EtiV1169XNQe1kCC82mNbfy9COKD123Hg4UYKSOPgAE9guxhW7riNevMV0j123O796ixpYtcqn9YorIQIqEpe116h8FQ117117
-  item_date: "2015-05-26 00:00:00"
-  title: RESTful API Design Part III Error Handling
-  url: http://blog.cloud-elements.com/error-handling-restful-api-design-part-iii
-  domain: blog.cloud-elements.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/cloud-elements-comrestful-api-design-part-iii-error-handling.png
+- curated_id: Bs2hh71239NRJJ123123IBB9wcK7NZJZjhEIz1Hea67EEI0KB35123j28NaT08jBbSGxsarnQW116DhQ721164116Pm7tF2Ipn5Q117117
+  item_date: "2015-05-21 00:00:00"
+  title: 7 Important API Design Lessons
+  url: http://nordicapis.com/7-api-design-lessons-world-tour-roundup/
+  domain: nordicapis.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-com7-api-design-lessons-world-tour-roundup.png
+- curated_id: 0RlbclclakYqrpBkU1116CCDN6IbxoulxNCGvTLxNE8P1qJSRIwHMIPiIH0diua4OP116MJnWyKkQf6zf0116jZiWhYw117117
+  item_date: "2015-05-21 00:00:00"
+  title: Apigee API Studio Designing Testing and Sharing APIs
+  url: http://www.infoq.com/news/2015/05/apigee-api-studio
+  domain: www.infoq.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comnews201505apigee-api-studio.png
 - curated_id: yyyQ2sx4byR5DrIIg8JCp5MyS2QoGlHKlcHtj4SxukmFvt28umPU9Hi7123aXpTqQc4ev12zNus9ayFlqCNhgKbA117117
   item_date: "2015-05-26 00:00:00"
   title: Article From Doodles to Delivery  An API Design Process
   url: http://www.infoq.com/articles/doodles-to-delivery
   domain: www.infoq.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comarticlesdoodles-to-delivery.png
+- curated_id: E9EtiV1169XNQe1kCC82mNbfy9COKD123Hg4UYKSOPgAE9guxhW7riNevMV0j123O796ixpYtcqn9YorIQIqEpe116h8FQ117117
+  item_date: "2015-05-26 00:00:00"
+  title: RESTful API Design Part III Error Handling
+  url: http://blog.cloud-elements.com/error-handling-restful-api-design-part-iii
+  domain: blog.cloud-elements.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/cloud-elements-comrestful-api-design-part-iii-error-handling.png
 - curated_id: yys0JrQG4GKZQYqRVGPCE7FBtxQeMrffOGJs2xUHIKaUcHOxHdb3Fhv1123oOB14PLPIUEwG7y82ETldawQ5uYKQ117117
   item_date: "2015-05-30 00:00:00"
   title: How to build APIs efficiently
@@ -1262,18 +1262,18 @@
   url: http://ben.balter.com/2015/06/03/copyright-notices-for-websites-and-open-source-projects/
   domain: ben.balter.com
   image: ""
-- curated_id: GJRNrJdsAI4jxd5D41xo123No27xfvP4X09DnCXz4pPSuat2Js116JfYQnCW0xlMVClXmvy27wXpMeX0mw34VWPOGQ117117
-  item_date: "2015-06-04 00:00:00"
-  title: Top 5 Development Tips for a Killer API
-  url: http://nordicapis.com/top-5-development-tips-for-a-killer-api/
-  domain: nordicapis.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-comtop-5-development-tips-for-a-killer-api.png
 - curated_id: 5VwPDKWUk55NFAl8rRjvprraPmuMgFE9riI4Pas3bvUKoIoR8bAKiiMfXOU2lp5MFtIYePrhgOvvDdkuN9Sodg117117
   item_date: "2015-06-04 00:00:00"
   title: Why Not To Overlook API Planning And What To Do About It
   url: http://www.programmableweb.com/news/why-not-to-overlook-api-planning-and-what-to-do-about-it/analysis/2015/06/04
   domain: www.programmableweb.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewswhy-not-to-overlook-api-planning-and-what-to-do-about-itanalysis20150604.png
+- curated_id: GJRNrJdsAI4jxd5D41xo123No27xfvP4X09DnCXz4pPSuat2Js116JfYQnCW0xlMVClXmvy27wXpMeX0mw34VWPOGQ117117
+  item_date: "2015-06-04 00:00:00"
+  title: Top 5 Development Tips for a Killer API
+  url: http://nordicapis.com/top-5-development-tips-for-a-killer-api/
+  domain: nordicapis.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-comtop-5-development-tips-for-a-killer-api.png
 - curated_id: 05KJQ1WD9epxSr7O58AbBgBU62JBjCls8116PIAtr2BSV5cMxSq123og116V75fmYty3XXo1Dkjvgqb648116W123I4dIs9Q117117
   item_date: "2015-06-04 11:42:10"
   title: Visions Of My Perfect API Design Editor Using Electron
@@ -1359,18 +1359,18 @@
   url: http://apievangelist.com/2015/06/30/the-api-design-tooling-i-have-included-in-my-research/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150630the-api-design-tooling-i-have-included-in-my-research.png
-- curated_id: GtToYCl83GqPeDTeu9CxlochQL5ZdZhjuN7n1noEnUcLl1Vg123ZZEaT7116k95123116UgOpQrjRmDKwDp8z123noC5XnYQ117117
-  item_date: "2015-06-30 00:00:00"
-  title: API Design Considerations for The Internet of Things
-  url: http://www.programmableweb.com/news/api-design-considerations-internet-things/analysis/2015/06/30
-  domain: www.programmableweb.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsapi-design-considerations-internet-thingsanalysis20150630.png
 - curated_id: WedC123gJbVRxcVR5FuD8q7123Yk116o9116116HS12xXrrtIyDZxZuZsaa58VJDuaUcXXCBRx1SFIuz2123QzLeZoiTp116Ie2g117117
   item_date: "2015-06-30 00:00:00"
   title: Why Its OK To Design Imperfect APIs
   url: http://www.programmableweb.com/news/why-it%E2%80%99s-ok-to-design-imperfect-apis/analysis/2015/06/30
   domain: www.programmableweb.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewswhy-it%e2%80%99s-ok-to-design-imperfect-apisanalysis20150630.png
+- curated_id: GtToYCl83GqPeDTeu9CxlochQL5ZdZhjuN7n1noEnUcLl1Vg123ZZEaT7116k95123116UgOpQrjRmDKwDp8z123noC5XnYQ117117
+  item_date: "2015-06-30 00:00:00"
+  title: API Design Considerations for The Internet of Things
+  url: http://www.programmableweb.com/news/api-design-considerations-internet-things/analysis/2015/06/30
+  domain: www.programmableweb.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsapi-design-considerations-internet-thingsanalysis20150630.png
 - curated_id: n7z123M6y116buVRfY8Wr4kz5OdnR123wqB2116t38ShIcn4123vI0XQysXA0yDLl17WibuFfmRMhAvqCtCoEPjA0aw7cjDA117117
   item_date: "2015-06-30 00:43:09"
   title: Tightening Up The Organizations That Are Included In My API Design Research
@@ -1483,18 +1483,18 @@
   url: http://www.slideshare.net/AEMHub2014/rest-in-aem-by-roy-fielding
   domain: www.slideshare.net
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-slideshare-netaemhub2014rest-in-aem-by-roy-fielding.png
-- curated_id: AOKBxVnTNmpbS116dT7zC0116YY7ZWkobOEzHUoEAgrupOZlxW4oi4bCPHIjJ1123ouEggVcbR5mvS1Hp123DdMHThJrlw117117
-  item_date: "2015-09-13 00:00:00"
-  title: There Is A Big Opportunity Right Now When It Comes To API Design Tooling
-  url: http://apievangelist.com/2015/09/14/there-is-a-big-opportunity-right-now-when-it-comes-to-api-design-tooling
-  domain: apievangelist.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150914there-is-a-big-opportunity-right-now-when-it-comes-to-api-design-tooling.png
 - curated_id: CnLjMfKaXSPg2ohD6mjuZfGt8NQQPZ0cC3cdPpVeseooWawQK71QVpT0116KhdUhNMfd8PaD8NpeNQStNpxivGXA117117
   item_date: "2015-09-13 00:00:00"
   title: Architectural Styles for APIs SOAP REST and RPC
   url: http://api-university.com/blog/styles-for-apis-soap-rest-and-rpc/
   domain: api-university.com
   image: ""
+- curated_id: AOKBxVnTNmpbS116dT7zC0116YY7ZWkobOEzHUoEAgrupOZlxW4oi4bCPHIjJ1123ouEggVcbR5mvS1Hp123DdMHThJrlw117117
+  item_date: "2015-09-13 00:00:00"
+  title: There Is A Big Opportunity Right Now When It Comes To API Design Tooling
+  url: http://apievangelist.com/2015/09/14/there-is-a-big-opportunity-right-now-when-it-comes-to-api-design-tooling
+  domain: apievangelist.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150914there-is-a-big-opportunity-right-now-when-it-comes-to-api-design-tooling.png
 - curated_id: OZpnbFT1163F4zCLYvsOGYUkUBJBLMoCMm9oVL5WgOg3S5hxmSRFbIZ3jrZHJ7dOe2cWmjxQ2Ws6WRkwXQJ116rbjQ117117
   item_date: "2015-11-24 00:00:00"
   title: API Design Using Behavior Driven Development
@@ -1681,11 +1681,11 @@
   url: https://sendgrid.com/blog/using-a-prototype-as-an-api-product-specification/
   domain: sendgrid.com
   image: ""
-- curated_id: hiLirbaQ4NlZkTXhYQhipgDJg116pqSEQzbf123DYPMRUGrD5123TZb1anvAoXlJwgsuZWHDY6p116JkDa4kZMBDtNFSrg117117
+- curated_id: osVw1gFKugfHVMaC8zTw9Ya116ho123n4ic3FC9sFeUK28BZSaypdwnbmhRMt7z99GtHDv116s1yWNL3KPT123xvadlZJg117117
   item_date: "2016-02-17 00:00:00"
-  title: Resolving the FrontendBackend API Design Conflict
-  url: http://launchany.com/resolving-the-frontendbackend-api-design-conflict/
-  domain: launchany.com
+  title: Why Github039s Scientist 10 Could Be Great for API Versioning
+  url: http://www.programmableweb.com/news/why-githubs-scientist-1.0-could-be-great-api-versioning/analysis/2016/02/17
+  domain: www.programmableweb.com
   image: ""
 - curated_id: bcMBFo123E61DH5Rw73UpJWr4o123qWhqbajzzrbRjOCFGgjtDFby8nHl4qgydbDUhNCQi3O3RTD9Ty5116P7aAKmkXQ117117
   item_date: "2016-02-17 00:00:00"
@@ -1693,11 +1693,11 @@
   url: https://dzone.com/articles/dear-api-designer-are-you-sure-you-want-to-return
   domain: dzone.com
   image: ""
-- curated_id: osVw1gFKugfHVMaC8zTw9Ya116ho123n4ic3FC9sFeUK28BZSaypdwnbmhRMt7z99GtHDv116s1yWNL3KPT123xvadlZJg117117
+- curated_id: hiLirbaQ4NlZkTXhYQhipgDJg116pqSEQzbf123DYPMRUGrD5123TZb1anvAoXlJwgsuZWHDY6p116JkDa4kZMBDtNFSrg117117
   item_date: "2016-02-17 00:00:00"
-  title: Why Github039s Scientist 10 Could Be Great for API Versioning
-  url: http://www.programmableweb.com/news/why-githubs-scientist-1.0-could-be-great-api-versioning/analysis/2016/02/17
-  domain: www.programmableweb.com
+  title: Resolving the FrontendBackend API Design Conflict
+  url: http://launchany.com/resolving-the-frontendbackend-api-design-conflict/
+  domain: launchany.com
   image: ""
 - curated_id: 0OSxMK09116K3SCioB0NMqBXstRka123czJIG7eBex00tkXiUfx6kcramPTB123NSNIJ7ZN39UjsZxfHX6jFgUyA123b123A117117
   item_date: "2016-02-17 10:52:18"
@@ -1717,17 +1717,17 @@
   url: http://www.infoq.com/interviews/sheehan-api-quality
   domain: www.infoq.com
   image: ""
-- curated_id: XwPS116lrATdrb05BBoBJcxy5kMHo2ae4Tl1116QyB5JJDXyptDpoUy9ZO9tfVmejoWSLsBdNBlhsxAiKVtFrYL116IQ117117
-  item_date: "2016-03-01 00:00:00"
-  title: ""
-  url: http://www.codeproject.com/Articles/1082105/Visual-Modeling-Made-Easy-with-the-RASON-API-and-D
-  domain: www.codeproject.com
-  image: ""
 - curated_id: N1sbeXgH8CXvyirRvsjhTYY04miiSpZJOQZA116QAid123nkBy0nE1238pdj3WZtlCDEYMyMGUrqo57JkYEv7GSjNE5w117117
   item_date: "2016-03-01 00:00:00"
   title: StopLight Launches Visual API Design Tools
   url: http://www.infoq.com/news/2016/03/spotlight-api-designer
   domain: www.infoq.com
+  image: ""
+- curated_id: XwPS116lrATdrb05BBoBJcxy5kMHo2ae4Tl1116QyB5JJDXyptDpoUy9ZO9tfVmejoWSLsBdNBlhsxAiKVtFrYL116IQ117117
+  item_date: "2016-03-01 00:00:00"
+  title: ""
+  url: http://www.codeproject.com/Articles/1082105/Visual-Modeling-Made-Easy-with-the-RASON-API-and-D
+  domain: www.codeproject.com
   image: ""
 - curated_id: 7ewtTDCGD116b0hFJhKE4oQmaHMtggBPLu1DF5XTCKvvtYQ5QFjxPNZJ3kWH4IJNf12319116116GZL5123i8m5qrMkSfnXg117117
   item_date: "2016-03-04 00:00:00"
@@ -1863,16 +1863,16 @@
   url: https://blog.apiary.io/2016/04/21/API-Design-Hackaton
   domain: blog.apiary.io
   image: ""
-- curated_id: picbMlrYU35LX86cTL0H26Be123BhaEGEJEtVR6py5iF123v25RnWnZbOS123z7cQOCRV0ozrCtN2K2fVJhjmLYfp98A117117
-  item_date: "2016-04-22 00:00:00"
-  title: Build a REST API with XML Payload
-  url: https://dzone.com/articles/build-a-rest-api-with-xml-payload
-  domain: dzone.com
-  image: ""
 - curated_id: GQZ2YNcE3oaixEwp123hvfKEYYiFNCYtJ7wTCGRvL5FQlXAn9DdBpIwdosb1116uqOjqEfZT123sDxxCqgJixiFUPI8A117117
   item_date: "2016-04-22 00:00:00"
   title: API Names and Begging the Negatives
   url: https://dzone.com/articles/api-names-and-begging-the-negatives
+  domain: dzone.com
+  image: ""
+- curated_id: picbMlrYU35LX86cTL0H26Be123BhaEGEJEtVR6py5iF123v25RnWnZbOS123z7cQOCRV0ozrCtN2K2fVJhjmLYfp98A117117
+  item_date: "2016-04-22 00:00:00"
+  title: Build a REST API with XML Payload
+  url: https://dzone.com/articles/build-a-rest-api-with-xml-payload
   domain: dzone.com
   image: ""
 - curated_id: n1239IRU1116nUVY5w17gdar4efuaY4Bs11662mwmOgO9SCZ10Fj123enMxyx0gH123qE9LcAfJkWFz63tYHVpqlz5NqtOZg117117
@@ -1930,11 +1930,12 @@
   url: http://www.nytimes.com/2016/05/12/technology/oracles-suit-against-google-digs-up-old-bones.html
   domain: www.nytimes.com
   image: ""
-- curated_id: 339d86283620da6bfe6613c2d88da1ca
+- curated_id: f6f3774d5e2718ba2e0cc2384df3eab9
   item_date: "2016-05-12 00:00:00"
-  title: Google Foreshadows Legal Strategy in Epic API Copyright Case Against Oracle
-  url: http://www.programmableweb.com/news/google-foreshadows-legal-strategy-epic-api-copyright-case-against-oracle/analysis/2016/05/12
-  domain: www.programmableweb.com
+  title: 'The biggest problem for the Oracle v. Google retrial: Judge Alsups reality
+    distortion field'
+  url: http://www.fosspatents.com/2016/05/the-biggest-problem-for-oracle-v-google.html
+  domain: www.fosspatents.com
   image: ""
 - curated_id: eb12857d03f1790b2c62b51e82453024
   item_date: "2016-05-12 00:00:00"
@@ -1942,12 +1943,11 @@
   url: http://disruptiveviews.com/mano-a-mano-oracle-vs-google-a-fight-about-open-source/
   domain: disruptiveviews.com
   image: ""
-- curated_id: f6f3774d5e2718ba2e0cc2384df3eab9
+- curated_id: 339d86283620da6bfe6613c2d88da1ca
   item_date: "2016-05-12 00:00:00"
-  title: 'The biggest problem for the Oracle v. Google retrial: Judge Alsups reality
-    distortion field'
-  url: http://www.fosspatents.com/2016/05/the-biggest-problem-for-oracle-v-google.html
-  domain: www.fosspatents.com
+  title: Google Foreshadows Legal Strategy in Epic API Copyright Case Against Oracle
+  url: http://www.programmableweb.com/news/google-foreshadows-legal-strategy-epic-api-copyright-case-against-oracle/analysis/2016/05/12
+  domain: www.programmableweb.com
   image: ""
 - curated_id: 0e61d9fba85998b4431b3ae23911aa87
   item_date: "2016-05-16 00:00:00"
@@ -1961,17 +1961,17 @@
   url: http://motherboard.vice.com/read/in-google-v-oracle-the-nerds-are-getting-owned
   domain: motherboard.vice.com
   image: ""
-- curated_id: fa2e8e3fe771a972f9ebad2ddbf4a1bc
-  item_date: "2016-05-17 00:00:00"
-  title: Safra Catz frames Oracle v. Google fight in biblical terms
-  url: http://www.zdnet.com/article/safra-catz-frames-oracle-v-google-fight-in-biblical-terms/
-  domain: www.zdnet.com
-  image: ""
 - curated_id: dV5AAU116MTJHyrmJ8JpAbK5afZQPBGFdMXLhu1168jEpC6HE2gzAnegkoV6ADXhUc3fJJoKwtlwkmLKjD116H2XILYA117117
   item_date: "2016-05-17 00:00:00"
   title: Building a great API Lessons learned from working with dozens of REST APIs
   url: http://blog.bugsnag.com/building-great-apis
   domain: blog.bugsnag.com
+  image: ""
+- curated_id: fa2e8e3fe771a972f9ebad2ddbf4a1bc
+  item_date: "2016-05-17 00:00:00"
+  title: Safra Catz frames Oracle v. Google fight in biblical terms
+  url: http://www.zdnet.com/article/safra-catz-frames-oracle-v-google-fight-in-biblical-terms/
+  domain: www.zdnet.com
   image: ""
 - curated_id: 309f26b661281f2236099a92afb50956
   item_date: "2016-05-18 00:00:00"
@@ -1986,17 +1986,17 @@
   url: http://www.zdnet.com/article/larry-page-defends-googles-use-of-java-apis/
   domain: www.zdnet.com
   image: ""
-- curated_id: 4349c70315d04df2e5827ad586dff04e
-  item_date: "2016-05-19 00:00:00"
-  title: Oracle-Google Dispute Goes to Heart of Open-Source Software
-  url: http://www.nytimes.com/2016/05/20/technology/oracle-google-dispute-goes-to-heart-of-open-source-software.html
-  domain: www.nytimes.com
-  image: ""
 - curated_id: sPcF6w116aArj5Z0W95ijQRDh01Fahm1xbXFXDjtRi61lzhj123uhFaI4AWEO2cXqatSPLrljo2d62oSdnSsS26LCA117117
   item_date: "2016-05-19 00:00:00"
   title: RAMLing Again With API Workbench From Setup to Design
   url: https://dzone.com/articles/ramling-again-with-api-workbench-from-setup-to-des
   domain: dzone.com
+  image: ""
+- curated_id: 4349c70315d04df2e5827ad586dff04e
+  item_date: "2016-05-19 00:00:00"
+  title: Oracle-Google Dispute Goes to Heart of Open-Source Software
+  url: http://www.nytimes.com/2016/05/20/technology/oracle-google-dispute-goes-to-heart-of-open-source-software.html
+  domain: www.nytimes.com
   image: ""
 - curated_id: gLQ4pBj2cdQVqOrNtK561WnqGnA51llQIUJCJPR2XOGzd7hoUKM123jALzpVOVn9uGizJn1ETlKRxAIEF116L20iYw117117
   item_date: "2016-05-20 00:00:00"
@@ -2005,17 +2005,17 @@
   url: https://dzone.com/articles/a-consumer-of-a-properly-designed-restful-api-is-w
   domain: dzone.com
   image: ""
-- curated_id: 40abfd3d83390c75960aa4745ffd7acf
-  item_date: "2016-05-23 00:00:00"
-  title: The Oracle-google Case Will Decide The Future Of Software
-  url: http://bestthenews.com/article/oracle-google-case-will-decide-future-software-mon-05232016-1324.html
-  domain: bestthenews.com
-  image: ""
 - curated_id: f1ce9ef672707cb4c9437e99645d0c2c
   item_date: "2016-05-23 00:00:00"
   title: Oracle, Google give closing arguments in Java API copyright case
   url: http://www.zdnet.com/article/oracle-google-give-closing-arguments-in-java-api-copyright-case/
   domain: www.zdnet.com
+  image: ""
+- curated_id: 40abfd3d83390c75960aa4745ffd7acf
+  item_date: "2016-05-23 00:00:00"
+  title: The Oracle-google Case Will Decide The Future Of Software
+  url: http://bestthenews.com/article/oracle-google-case-will-decide-future-software-mon-05232016-1324.html
+  domain: bestthenews.com
   image: ""
 - curated_id: 88b8c2ba1e2a4bb7d47c19f01adab348
   item_date: "2016-05-24 00:00:00"
@@ -2023,23 +2023,11 @@
   url: http://disruptiveviews.com/oracle-vs-google-reaching-conclusion-final-arguments/
   domain: disruptiveviews.com
   image: ""
-- curated_id: 40ff98c925bb0849b11f815352c9a8e4
+- curated_id: 49e488752d277f257613182ba00a4886
   item_date: "2016-05-26 00:00:00"
-  title: Google wins Oracle copyright fight over Android code
-  url: http://www.theverge.com/2016/5/26/11754002/oracle-google-verdict-copyright-infringement-ruling-api-fair-use
-  domain: www.theverge.com
-  image: ""
-- curated_id: 55ebc4bd76a531987e10621d933192ce
-  item_date: "2016-05-26 00:00:00"
-  title: Google Beats Oracle in Java API Case
-  url: http://arstechnica.com/tech-policy/2016/05/google-wins-trial-against-oracle-as-jury-finds-android-is-fair-use/
-  domain: arstechnica.com
-  image: ""
-- curated_id: 551cfd69fc1d9981edc0fab7baf317c7
-  item_date: "2016-05-26 00:00:00"
-  title: Google prevails over Oracle in copyright infringement case
-  url: http://www.zdnet.com/article/google-prevails-over-oracle-in-copyright-infringement-case/
-  domain: www.zdnet.com
+  title: Google Prevails as Jury Rebuffs Oracle in Code Copyright Case
+  url: http://www.nytimes.com/2016/05/27/technology/google-oracle-copyright-code.html
+  domain: www.nytimes.com
   image: ""
 - curated_id: 25ad3c9870efeca06275bc7a59f98bd2
   item_date: "2016-05-26 00:00:00"
@@ -2047,17 +2035,53 @@
   url: http://www.businessinsider.com/google-won-its-lawsuit-against-oracle-2016-5
   domain: www.businessinsider.com
   image: ""
-- curated_id: 49e488752d277f257613182ba00a4886
-  item_date: "2016-05-26 00:00:00"
-  title: Google Prevails as Jury Rebuffs Oracle in Code Copyright Case
-  url: http://www.nytimes.com/2016/05/27/technology/google-oracle-copyright-code.html
-  domain: www.nytimes.com
-  image: ""
 - curated_id: 85e5d7dc1f3a54b4453b63a0770a0516
   item_date: "2016-05-26 00:00:00"
   title: Why the Oracle-Google Jury Got It Right
   url: http://www.law.com/sites/almstaff/2016/05/26/why-the-oracle-google-jury-got-it-right/
   domain: www.law.com
+  image: ""
+- curated_id: 40ff98c925bb0849b11f815352c9a8e4
+  item_date: "2016-05-26 00:00:00"
+  title: Google wins Oracle copyright fight over Android code
+  url: http://www.theverge.com/2016/5/26/11754002/oracle-google-verdict-copyright-infringement-ruling-api-fair-use
+  domain: www.theverge.com
+  image: ""
+- curated_id: 551cfd69fc1d9981edc0fab7baf317c7
+  item_date: "2016-05-26 00:00:00"
+  title: Google prevails over Oracle in copyright infringement case
+  url: http://www.zdnet.com/article/google-prevails-over-oracle-in-copyright-infringement-case/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 55ebc4bd76a531987e10621d933192ce
+  item_date: "2016-05-26 00:00:00"
+  title: Google Beats Oracle in Java API Case
+  url: http://arstechnica.com/tech-policy/2016/05/google-wins-trial-against-oracle-as-jury-finds-android-is-fair-use/
+  domain: arstechnica.com
+  image: ""
+- curated_id: 3339039c54aaa08a211751f43ae6a7e8
+  item_date: "2016-05-27 00:00:00"
+  title: Google Beats Oracle in Copyright Case, Wont Have to Pay $9 Billion
+  url: http://thevillagessuntimes.com/2016/05/28/google-beats-oracle-in-copyright-case-wont-have-to-pay-9/
+  domain: thevillagessuntimes.com
+  image: ""
+- curated_id: 1dc1fbbe496cb0513759441a39945e4a
+  item_date: "2016-05-27 00:00:00"
+  title: Google Beats Oracle In Java Copyright Case
+  url: http://frontlinedesk.com/2016/05/28/google-beats-oracle-in-java-copyright-case.html
+  domain: frontlinedesk.com
+  image: ""
+- curated_id: ed9f788204761eef7b43890baaea7779
+  item_date: "2016-05-27 00:00:00"
+  title: 'Google v. Oracle Fair Use Victory: How Did We Get Here?'
+  url: https://www.publicknowledge.org/news-blog/blogs/google-v.-oracle-fair-use-victory-how-did-we-get-here
+  domain: www.publicknowledge.org
+  image: ""
+- curated_id: 192bcf076c2ae9bf505728f5ba15c798
+  item_date: "2016-05-27 00:00:00"
+  title: 'Google wins battle with Oracle: Game-changer for Silicon Valley?'
+  url: http://www.csmonitor.com/Technology/2016/0527/Why-many-in-Silicon-Valley-breathed-sigh-of-relief-at-Google-Oracle-ruling
+  domain: www.csmonitor.com
   image: ""
 - curated_id: 6637acd38b3ec7b128dc2a24a53a9cb1
   item_date: "2016-05-27 00:00:00"
@@ -2070,30 +2094,6 @@
   title: 'Oracle vs Google: Where are the Oracle Supporters?'
   url: https://dzone.com/articles/oracle-vs-google-is-anyone-rooting-for-oracle
   domain: dzone.com
-  image: ""
-- curated_id: 192bcf076c2ae9bf505728f5ba15c798
-  item_date: "2016-05-27 00:00:00"
-  title: 'Google wins battle with Oracle: Game-changer for Silicon Valley?'
-  url: http://www.csmonitor.com/Technology/2016/0527/Why-many-in-Silicon-Valley-breathed-sigh-of-relief-at-Google-Oracle-ruling
-  domain: www.csmonitor.com
-  image: ""
-- curated_id: 1dc1fbbe496cb0513759441a39945e4a
-  item_date: "2016-05-27 00:00:00"
-  title: Google Beats Oracle In Java Copyright Case
-  url: http://frontlinedesk.com/2016/05/28/google-beats-oracle-in-java-copyright-case.html
-  domain: frontlinedesk.com
-  image: ""
-- curated_id: 3339039c54aaa08a211751f43ae6a7e8
-  item_date: "2016-05-27 00:00:00"
-  title: Google Beats Oracle in Copyright Case, Wont Have to Pay $9 Billion
-  url: http://thevillagessuntimes.com/2016/05/28/google-beats-oracle-in-copyright-case-wont-have-to-pay-9/
-  domain: thevillagessuntimes.com
-  image: ""
-- curated_id: ed9f788204761eef7b43890baaea7779
-  item_date: "2016-05-27 00:00:00"
-  title: 'Google v. Oracle Fair Use Victory: How Did We Get Here?'
-  url: https://www.publicknowledge.org/news-blog/blogs/google-v.-oracle-fair-use-victory-how-did-we-get-here
-  domain: www.publicknowledge.org
   image: ""
 - curated_id: 933c7d25efc7d326c209260f1dfc95bd
   item_date: "2016-05-28 00:00:00"
@@ -2113,17 +2113,17 @@
   url: https://dzone.com/articles/the-most-important-thing-when-picking-http-statusc
   domain: dzone.com
   image: ""
-- curated_id: aLHR0xOc7T1d7r4TSoq5PyLvIdxHu1pHmxRZkkSIDHMQK7huIiZ123U3fe123vHSv5amiVw9NmuG2o123ulZxTGz0b8A117117
-  item_date: "2016-06-06 00:00:00"
-  title: The Basics of REST and RESTful API Development
-  url: http://www.hongkiat.com/blog/rest-restful-api-dev/
-  domain: www.hongkiat.com
-  image: ""
 - curated_id: 7fdc53f27c85492ee57865b1120b9679
   item_date: "2016-06-06 00:00:00"
   title: How Oracle won by losing against Google
   url: http://www.techcentral.co.za/how-oracle-won-by-losing-against-google/65867/
   domain: www.techcentral.co.za
+  image: ""
+- curated_id: aLHR0xOc7T1d7r4TSoq5PyLvIdxHu1pHmxRZkkSIDHMQK7huIiZ123U3fe123vHSv5amiVw9NmuG2o123ulZxTGz0b8A117117
+  item_date: "2016-06-06 00:00:00"
+  title: The Basics of REST and RESTful API Development
+  url: http://www.hongkiat.com/blog/rest-restful-api-dev/
+  domain: www.hongkiat.com
   image: ""
 - curated_id: YYeMZ2eqvtI4SkEAp3cMm8g8pI2DieUmzDKi6qdJVajxuMVvqldL60n7PjB8226i0y34pxJzzFJQd5jLDEbn116Q117117
   item_date: "2016-06-09 00:00:00"
@@ -2179,18 +2179,18 @@
   url: https://dzone.com/articles/http-rpc-30-released
   domain: dzone.com
   image: ""
+- curated_id: b7e087b4836a54326a3827772a54a10e
+  item_date: "2016-07-05 00:00:00"
+  title: Google asks court to sanction Oracle for revealing details of Apple deal
+  url: http://www.zdnet.com/article/google-asks-court-to-sanction-oracle-for-revealing-details-of-apple-deal/
+  domain: www.zdnet.com
+  image: ""
 - curated_id: 317d748d0be60577e8908da093ddfa67
   item_date: "2016-07-05 00:00:00"
   title: Google wants Oracles lawyer to be punished for revealing its business deal
     with Apple
   url: http://www.businessinsider.com/google-wants-oracles-lawyer-to-be-fined-2016-7
   domain: www.businessinsider.com
-  image: ""
-- curated_id: b7e087b4836a54326a3827772a54a10e
-  item_date: "2016-07-05 00:00:00"
-  title: Google asks court to sanction Oracle for revealing details of Apple deal
-  url: http://www.zdnet.com/article/google-asks-court-to-sanction-oracle-for-revealing-details-of-apple-deal/
-  domain: www.zdnet.com
   image: ""
 - curated_id: 6025a1debe8f8b739d9877776a8499df
   item_date: "2016-07-07 00:00:00"
@@ -2235,12 +2235,11 @@
   url: https://www.eff.org/deeplinks/2016/07/more-copyright-law-less-copyright-infringement
   domain: www.eff.org
   image: ""
-- curated_id: 4821c3f42295a3bef7573382e71ab349
+- curated_id: v4Nvl9lWN4J7Int4yYDsTh38yTdxosle50116q116MnYof5Xq0GJs123WAkSN3Z5MZep66zfbrhNjTHX2Bw8r123tRle8A117117
   item_date: "2016-07-21 00:00:00"
-  title: Blockai uses the blockchain to protect your copyright and find those infringing
-    on it
-  url: http://thenextweb.com/insider/2016/07/22/blockai-uses-the-blockchain-to-protect-your-copyright-and-find-those-infringing-on-it/
-  domain: thenextweb.com
+  title: Microsoft Publishes REST API Guidelines 23
+  url: http://www.programmableweb.com/news/microsoft-publishes-rest-api-guidelines-2.3/brief/2016/07/21
+  domain: www.programmableweb.com
   image: ""
 - curated_id: EQ3nD4KJh116yUZ8x123a4dw68KbWIAlRIWpVoXe4NM116m123PnhtJXVhpn0iIompIRwZBwO6X123dCHv6vknVF1mS1qnSA117117
   item_date: "2016-07-21 00:00:00"
@@ -2248,11 +2247,12 @@
   url: https://www.infoq.com/news/2016/07/microsoft-rest-api
   domain: www.infoq.com
   image: ""
-- curated_id: v4Nvl9lWN4J7Int4yYDsTh38yTdxosle50116q116MnYof5Xq0GJs123WAkSN3Z5MZep66zfbrhNjTHX2Bw8r123tRle8A117117
+- curated_id: 4821c3f42295a3bef7573382e71ab349
   item_date: "2016-07-21 00:00:00"
-  title: Microsoft Publishes REST API Guidelines 23
-  url: http://www.programmableweb.com/news/microsoft-publishes-rest-api-guidelines-2.3/brief/2016/07/21
-  domain: www.programmableweb.com
+  title: Blockai uses the blockchain to protect your copyright and find those infringing
+    on it
+  url: http://thenextweb.com/insider/2016/07/22/blockai-uses-the-blockchain-to-protect-your-copyright-and-find-those-infringing-on-it/
+  domain: thenextweb.com
   image: ""
 - curated_id: 3c6f55d209b49981172da5c1f2fc4625
   item_date: "2016-07-29 00:00:00"
@@ -2266,12 +2266,17 @@
   url: https://www.eff.org/deeplinks/2016/08/dont-wrap-anti-competitive-pay-tv-practices-copyright-flag
   domain: www.eff.org
   image: ""
-- curated_id: 5221d22a30af2166ef9542d8798c9283
+- curated_id: kZx123I9JcW5EFeckjo8v3rPxf123O3epDRsTJ123AE1MQjJY109116ro1UxHrtxIn2sG0P116xUgTyfRgHQdf6116le123yx0MQ117117
   item_date: "2016-08-03 00:00:00"
-  title: Copyright Office Jumps Into Set-Top Box Debate, Says Hollywood Should Control
-    Your TV
-  url: https://www.eff.org/deeplinks/2016/08/copyright-office-jumps-set-top-box-debate-says-hollywood-should-control-your-tv
-  domain: www.eff.org
+  title: Restlet Studio 13 is out
+  url: http://restlet.com/blog/2016/08/03/restlet-studio-1-3-is-out/
+  domain: restlet.com
+  image: ""
+- curated_id: h6loNrmahtGZvgL116Pr8gcsvvzgTqiWUvFoKxZmid4V3MUhCQbij5H5116nLYFyEOwa2IHgQI5V62Z70QMSmwrt116w117117
+  item_date: "2016-08-03 00:00:00"
+  title: Getting Your REST is Important
+  url: http://www.tibco.com/blog/2016/08/03/getting-your-rest-is-important/
+  domain: www.tibco.com
   image: ""
 - curated_id: 1aa3e031bf836b3e09a4158ca58370b3
   item_date: "2016-08-03 00:00:00"
@@ -2280,17 +2285,12 @@
   url: http://boingboing.net/2016/08/03/lawsuit-getty-images-copyfrau.html
   domain: boingboing.net
   image: ""
-- curated_id: h6loNrmahtGZvgL116Pr8gcsvvzgTqiWUvFoKxZmid4V3MUhCQbij5H5116nLYFyEOwa2IHgQI5V62Z70QMSmwrt116w117117
+- curated_id: 5221d22a30af2166ef9542d8798c9283
   item_date: "2016-08-03 00:00:00"
-  title: Getting Your REST is Important
-  url: http://www.tibco.com/blog/2016/08/03/getting-your-rest-is-important/
-  domain: www.tibco.com
-  image: ""
-- curated_id: kZx123I9JcW5EFeckjo8v3rPxf123O3epDRsTJ123AE1MQjJY109116ro1UxHrtxIn2sG0P116xUgTyfRgHQdf6116le123yx0MQ117117
-  item_date: "2016-08-03 00:00:00"
-  title: Restlet Studio 13 is out
-  url: http://restlet.com/blog/2016/08/03/restlet-studio-1-3-is-out/
-  domain: restlet.com
+  title: Copyright Office Jumps Into Set-Top Box Debate, Says Hollywood Should Control
+    Your TV
+  url: https://www.eff.org/deeplinks/2016/08/copyright-office-jumps-set-top-box-debate-says-hollywood-should-control-your-tv
+  domain: www.eff.org
   image: ""
 - curated_id: 9e2a2bd46c8d4dd2f3b4354d9f2cfb48
   item_date: "2016-08-04 00:00:00"
@@ -2329,18 +2329,6 @@
   url: http://nordicapis.com/api-design-building-and-enforcing-an-internal-style-guide/
   domain: nordicapis.com
   image: ""
-- curated_id: 25c5651f4f21e423602a69eb4c522e66
-  item_date: "2016-08-17 00:00:00"
-  title: "Oracle Says Google Didn?t Play Fair, Wants Third Trial (Oh God)\r\n"
-  url: http://motherboard.vice.com/read/oracle-says-google-didnt-play-fair-wants-third-trial-oh-god
-  domain: motherboard.vice.com
-  image: ""
-- curated_id: SDWzRmVcAepNvK91vqm3Xq1pH8lzV43s116116ItCTRrYWQfEuI116zsCue0KOltF1vlaufky3J0gWI6BQMbBOZbOLqw117117
-  item_date: "2016-08-17 00:00:00"
-  title: OptoNews Tip Whats a RESTful API and why does it matter
-  url: http://blog.opto22.com/optoblog/optonews-tip-whats-a-restful-api-and-why-does-it-matter
-  domain: blog.opto22.com
-  image: ""
 - curated_id: deeb6112e5cfd6843ac58a3c40f8ec6b
   item_date: "2016-08-17 00:00:00"
   title: Judge may order a new Oracle v. Google retrial over evidence unwisely withheld
@@ -2348,17 +2336,29 @@
   url: http://www.fosspatents.com/2016/08/judge-may-order-new-oracle-v-google.html
   domain: www.fosspatents.com
   image: ""
-- curated_id: 0e8ed1a3467bdbec14588dd02d5d688b
-  item_date: "2016-08-18 00:00:00"
-  title: Blockai for Twitter ? Claim the copyright for your photos using Twitter
-  url: https://blockai.com/twitter
-  domain: blockai.com
+- curated_id: SDWzRmVcAepNvK91vqm3Xq1pH8lzV43s116116ItCTRrYWQfEuI116zsCue0KOltF1vlaufky3J0gWI6BQMbBOZbOLqw117117
+  item_date: "2016-08-17 00:00:00"
+  title: OptoNews Tip Whats a RESTful API and why does it matter
+  url: http://blog.opto22.com/optoblog/optonews-tip-whats-a-restful-api-and-why-does-it-matter
+  domain: blog.opto22.com
+  image: ""
+- curated_id: 25c5651f4f21e423602a69eb4c522e66
+  item_date: "2016-08-17 00:00:00"
+  title: "Oracle Says Google Didn?t Play Fair, Wants Third Trial (Oh God)\r\n"
+  url: http://motherboard.vice.com/read/oracle-says-google-didnt-play-fair-wants-third-trial-oh-god
+  domain: motherboard.vice.com
   image: ""
 - curated_id: 5kumgPU1tpPUcGzXi123y0Z116tD230wPDqsDpsZ96h8ISNGv9TrCNU1Pcg3hX3U5ege4c7QV1haRdiF8ABWkrsYIQ117117
   item_date: "2016-08-18 00:00:00"
   title: Five Steps Before Developing a Smart Home Skill
   url: https://developer.amazon.com/appsandservices/community/post/Tx4WG410EHXIYQ/Five-Steps-Before-Developing-a-Smart-Home-Skill
   domain: developer.amazon.com
+  image: ""
+- curated_id: 0e8ed1a3467bdbec14588dd02d5d688b
+  item_date: "2016-08-18 00:00:00"
+  title: Blockai for Twitter ? Claim the copyright for your photos using Twitter
+  url: https://blockai.com/twitter
+  domain: blockai.com
   image: ""
 - curated_id: qLaC11644116WujhcD5nT9f4LoBUe10mDVVEAMM0rippPDYHWXZ24osQ1Ij0kD08kbZYT4CWuvfl5aCPplmfWigAYg117117
   item_date: "2016-08-19 00:00:00"
@@ -2385,6 +2385,12 @@
   url: http://www.fosspatents.com/2016/08/oracle-pushing-hard-for-android-java-re.html
   domain: www.fosspatents.com
   image: ""
+- curated_id: Xfyir400A5QT2tkKsL0h4r9rBrHYZDJhKN84Dbz2xsmzScR49f116dt116sGAmd9lqWMS0cLOvKKKE7kcLTnMjt9Ew117117
+  item_date: "2016-08-26 00:00:00"
+  title: RESTful APIs and MediaTypes
+  url: https://akrabat.com/restful-apis-and-media-types/
+  domain: akrabat.com
+  image: ""
 - curated_id: c1bf530b06b1a666183bf5acb34b4534
   item_date: "2016-08-26 00:00:00"
   title: European Copyright Leak Exposes Plans to Force the Internet to Subsidize
@@ -2392,11 +2398,11 @@
   url: https://www.eff.org/deeplinks/2016/08/european-copyright-leak-exposes-plans-force-internet-subsidize-publishers
   domain: www.eff.org
   image: ""
-- curated_id: Xfyir400A5QT2tkKsL0h4r9rBrHYZDJhKN84Dbz2xsmzScR49f116dt116sGAmd9lqWMS0cLOvKKKE7kcLTnMjt9Ew117117
-  item_date: "2016-08-26 00:00:00"
-  title: RESTful APIs and MediaTypes
-  url: https://akrabat.com/restful-apis-and-media-types/
-  domain: akrabat.com
+- curated_id: YHfjCEvdfVvyO09RvJmochOyo8wzrYFQV6XoIiYhxCk6Hftk6oGyi123rLSlA7FBRRCldeEZJ8vr4ICEnDAgG1Ew117117
+  item_date: "2016-08-29 00:00:00"
+  title: Internal API Design for Distributed Teams
+  url: https://www.lullabot.com/articles/internal-api-design-for-distributed-teams
+  domain: www.lullabot.com
   image: ""
 - curated_id: 5675c65e7e96ff2254748b91ed4e8879
   item_date: "2016-08-29 00:00:00"
@@ -2404,23 +2410,17 @@
   url: http://www.programmableweb.com/news/how-idea-copyrighting-apis-stifles-innovation-and-growth/elsewhere-web/2016/08/29
   domain: www.programmableweb.com
   image: ""
-- curated_id: YHfjCEvdfVvyO09RvJmochOyo8wzrYFQV6XoIiYhxCk6Hftk6oGyi123rLSlA7FBRRCldeEZJ8vr4ICEnDAgG1Ew117117
-  item_date: "2016-08-29 00:00:00"
-  title: Internal API Design for Distributed Teams
-  url: https://www.lullabot.com/articles/internal-api-design-for-distributed-teams
-  domain: www.lullabot.com
+- curated_id: lJDc116koEBDYKzA9Gqj8Tgo0lWYERe1236K7O1161DL441B7icwAMmdV123trJFikQk1QWaMnO1aLXkE2HSRYCbUc1231Iw117117
+  item_date: "2016-08-30 00:00:00"
+  title: Better API Design With Java 8 Optional
+  url: https://dzone.com/articles/better-api-design-with-java-8-optional
+  domain: dzone.com
   image: ""
 - curated_id: BmkZASH5lT8aIjPY68zoiSoAW123MOPpIPwfJ0I123v116VTfnz123Q3GrVUHxxQfi1UEc6wm2rwRJn8rJMwHP2PSWn9sQ117117
   item_date: "2016-08-30 00:00:00"
   title: Why Consistency Matters Across the Media Types Offered by an API
   url: http://www.programmableweb.com/news/why-consistency-matters-across-media-types-offered-api/analysis/2016/08/30
   domain: www.programmableweb.com
-  image: ""
-- curated_id: lJDc116koEBDYKzA9Gqj8Tgo0lWYERe1236K7O1161DL441B7icwAMmdV123trJFikQk1QWaMnO1aLXkE2HSRYCbUc1231Iw117117
-  item_date: "2016-08-30 00:00:00"
-  title: Better API Design With Java 8 Optional
-  url: https://dzone.com/articles/better-api-design-with-java-8-optional
-  domain: dzone.com
   image: ""
 - curated_id: 4539fbd6ff3c54ba93c91c7b35296831
   item_date: "2016-08-31 00:00:00"
@@ -2452,17 +2452,17 @@
   url: https://mises.org/library/fight-against-intellectual-property
   domain: mises.org
   image: ""
-- curated_id: a7a4374a5c9cc61a92208acc3b8bcf11
-  item_date: "2016-09-06 00:00:00"
-  title: Govt Includes Internet Broadcasting Under Copyright Act
-  url: http://www.cxotoday.com/story/govt-includes-internet-broadcasting-under-copyright-act/
-  domain: www.cxotoday.com
-  image: ""
 - curated_id: 4o6SZMMni116jhgYnHETzMuLiXENxPqCjrULU8cXReVfrtPL123XNlxjHWmqWEdb0Grmxs2JyPExP8Y760lQq3YtIQ117117
   item_date: "2016-09-06 00:00:00"
   title: 'How to sort API expand fields '
   url: http://www.yiiframework.com/forum/index.php/topic/72123-how-to-sort-api-expand-fields/page__pid__302978
   domain: www.yiiframework.com
+  image: ""
+- curated_id: a7a4374a5c9cc61a92208acc3b8bcf11
+  item_date: "2016-09-06 00:00:00"
+  title: Govt Includes Internet Broadcasting Under Copyright Act
+  url: http://www.cxotoday.com/story/govt-includes-internet-broadcasting-under-copyright-act/
+  domain: www.cxotoday.com
   image: ""
 - curated_id: Nn08eeP56Jj2Ejkok66pR6V2HEU6116cPXO4fAcR2jVskQK3DI693AYMtCeEeLMQ116FhL7jL4txtmNTuItGiaSJkA117117
   item_date: "2016-09-07 00:00:00"
@@ -2482,18 +2482,6 @@
   url: http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/The-Secret-Sauce-Behind-Building-an-Elastic-API-113410.aspx
   domain: www.streamingmedia.com
   image: ""
-- curated_id: sjnAUAGv7o123BuTzkKPOTB123Hfq4HpzOE116JKaTvukk23Rys8jjr2OwvPpoLPN3BragPVRI1169t6HMfBxePb123G88MQ117117
-  item_date: "2016-09-08 00:00:00"
-  title: RESTful Web API Design with Nodejs
-  url: https://adobeland.wordpress.com/2016/09/08/restful-web-api-design-with-node-js/
-  domain: adobeland.wordpress.com
-  image: ""
-- curated_id: dGDk6eIYibFC8rIkNQEU07nkJhfM7yQlLv41oCq116WUZOnte431232KbzuK04T5JcrakDfXqKLY3DL6bUb116XI2cAA117117
-  item_date: "2016-09-08 00:00:00"
-  title: Restful API Design An Opinionated Guide
-  url: https://dzone.com/articles/restful-api-design-an-opinionated-guide
-  domain: dzone.com
-  image: ""
 - curated_id: 137ba8bb6d13604581ae385dca569957
   item_date: "2016-09-08 00:00:00"
   title: 'EFF to Court: Publics Right to Access the Law Should Not be Blocked by Bogus
@@ -2501,11 +2489,35 @@
   url: https://www.eff.org/press/releases/eff-court-industry-groups-bogus-copyright-case-will-block-public-access-written-laws
   domain: www.eff.org
   image: ""
+- curated_id: dGDk6eIYibFC8rIkNQEU07nkJhfM7yQlLv41oCq116WUZOnte431232KbzuK04T5JcrakDfXqKLY3DL6bUb116XI2cAA117117
+  item_date: "2016-09-08 00:00:00"
+  title: Restful API Design An Opinionated Guide
+  url: https://dzone.com/articles/restful-api-design-an-opinionated-guide
+  domain: dzone.com
+  image: ""
+- curated_id: sjnAUAGv7o123BuTzkKPOTB123Hfq4HpzOE116JKaTvukk23Rys8jjr2OwvPpoLPN3BragPVRI1169t6HMfBxePb123G88MQ117117
+  item_date: "2016-09-08 00:00:00"
+  title: RESTful Web API Design with Nodejs
+  url: https://adobeland.wordpress.com/2016/09/08/restful-web-api-design-with-node-js/
+  domain: adobeland.wordpress.com
+  image: ""
 - curated_id: 1c753a51a7d4d349c7621fd26bc34224
   item_date: "2016-09-08 13:23:12"
   title: The US Copyright Office is the poster child for regulatory capture
   url: https://boingboing.net/2016/09/08/the-us-copyright-office-is-the.html
   domain: boingboing.net
+  image: ""
+- curated_id: 9df4c1788d5e6f24507c60eddde2f89d
+  item_date: "2016-09-09 00:00:00"
+  title: European court rules that making a link can be copyright infringement
+  url: http://boingboing.net/2016/09/09/european-court-rules-that-maki.html
+  domain: boingboing.net
+  image: ""
+- curated_id: 0a27c24ac5ae5dd0daf8ee0dbeb0399e
+  item_date: "2016-09-09 00:00:00"
+  title: Why we?re fighting to protect noncommercial uses
+  url: https://creativecommons.org/2016/09/09/why-were-fighting-to-protect-noncommercial-uses/
+  domain: creativecommons.org
   image: ""
 - curated_id: 0dbd5a732461869fb164ba7bfe498971
   item_date: "2016-09-09 00:00:00"
@@ -2518,18 +2530,6 @@
   title: Introducing API Templates With Reusable System and Process APIs
   url: http://blogs.mulesoft.com/dev/anypoint-platform-dev/api-templates-reusable-system-process-apis/
   domain: blogs.mulesoft.com
-  image: ""
-- curated_id: 0a27c24ac5ae5dd0daf8ee0dbeb0399e
-  item_date: "2016-09-09 00:00:00"
-  title: Why we?re fighting to protect noncommercial uses
-  url: https://creativecommons.org/2016/09/09/why-were-fighting-to-protect-noncommercial-uses/
-  domain: creativecommons.org
-  image: ""
-- curated_id: 9df4c1788d5e6f24507c60eddde2f89d
-  item_date: "2016-09-09 00:00:00"
-  title: European court rules that making a link can be copyright infringement
-  url: http://boingboing.net/2016/09/09/european-court-rules-that-maki.html
-  domain: boingboing.net
   image: ""
 - curated_id: 6e4185c4cbc9c380928fb07907ef57fd
   item_date: "2016-09-10 22:09:22"
@@ -2574,17 +2574,17 @@
   url: http://githubengineering.com/the-github-graphql-api/
   domain: githubengineering.com
   image: ""
-- curated_id: edYbaWsa123R8e2zfyLXvgo5AVtwXb1116NuEbMXDFregXHr1c7Jdjs116O1KPP39WvuR8Zd6VBQYTsvcKTwD116QVKygg117117
-  item_date: "2016-09-15 00:00:00"
-  title: Learn API DevOps from the Experts  Design Testing Deployment
-  url: http://restlet.com/blog/2016/09/15/sept-api-meetup/
-  domain: restlet.com
-  image: ""
 - curated_id: cDJL0xH67dOaAxrzgwT7vGmvVQkkKTW4JN7N77116htbGh5hHK5FPpFsEHXjsG3f3pLVSSIL116unJzQo0rJ7D3aZQ117117
   item_date: "2016-09-15 00:00:00"
   title: How to Take Your API From RPC to Hypermedia in 7 Steps
   url: http://www.programmableweb.com/news/how-to-take-your-api-rpc-to-hypermedia-7-steps/how-to/2016/09/15
   domain: www.programmableweb.com
+  image: ""
+- curated_id: edYbaWsa123R8e2zfyLXvgo5AVtwXb1116NuEbMXDFregXHr1c7Jdjs116O1KPP39WvuR8Zd6VBQYTsvcKTwD116QVKygg117117
+  item_date: "2016-09-15 00:00:00"
+  title: Learn API DevOps from the Experts  Design Testing Deployment
+  url: http://restlet.com/blog/2016/09/15/sept-api-meetup/
+  domain: restlet.com
   image: ""
 - curated_id: DG1Hi4mdkwHH92Vuqlwl9zI3mhKI4ScbSqBXbJpClAd4tAGCHg0DZcXce4V4116MpKNNpnsR99Nlkz116XnUt0w8jQ117117
   item_date: "2016-09-16 00:00:00"
@@ -2598,17 +2598,17 @@
   url: https://dzone.com/articles/restful-web-service-1
   domain: dzone.com
   image: ""
-- curated_id: m73FE7d4lJQt3fa6LnbXYkEi4kf54W0XAok8PVABQ8qKR8mRVUcS8kiU0EPf0qCwRRS7SdMQMUl0PQmuUObqEg117117
-  item_date: "2016-09-20 00:00:00"
-  title: RPC vs REST is not in the URL
-  url: http://www.bizcoder.com:80/rpc-vs-rest-is-not-in-the-url
-  domain: www.bizcoder.com
-  image: ""
 - curated_id: 6jZVGTsC9S2HDZRPs123n3dFDGcJl0WyLG7aSbcQVxD0aG1w83cYwmDyuKnXUBao116mud84YVMSHgAi4kZ2uOZcIA117117
   item_date: "2016-09-20 00:00:00"
   title: Understanding REST And RPC For HTTP APIs
   url: https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-apis/
   domain: www.smashingmagazine.com
+  image: ""
+- curated_id: m73FE7d4lJQt3fa6LnbXYkEi4kf54W0XAok8PVABQ8qKR8mRVUcS8kiU0EPf0qCwRRS7SdMQMUl0PQmuUObqEg117117
+  item_date: "2016-09-20 00:00:00"
+  title: RPC vs REST is not in the URL
+  url: http://www.bizcoder.com:80/rpc-vs-rest-is-not-in-the-url
+  domain: www.bizcoder.com
   image: ""
 - curated_id: yKafGukRwI0iX7J9sRjmJ7Zpp9bcVrEi33Vb116SCMy123zMkqdeWma34XEJW8gIT3EGI3DbdbYwqs503rtmFeYYMQ117117
   item_date: "2016-09-20 06:32:01"
@@ -2640,13 +2640,6 @@
   url: https://www.apimint.com/
   domain: www.apimint.com
   image: ""
-- curated_id: 51278bcfa33f0b5beb43ac00b583c47c
-  item_date: "2016-09-26 00:00:00"
-  title: European Allows Copyright Owners to Demand Open Wifi Networks be Password
-    Protected
-  url: https://www.eff.org/deeplinks/2016/09/european-allows-copyright-owners-demand-open-wifi-networks-be-password-protected
-  domain: www.eff.org
-  image: ""
 - curated_id: 116GIVoSMboV3POzd0IyTmUX123H116ZiCMCd24Xqc5jCQRFgLz7j5tgrz116ikb6u9T3hS0xSdmmqXif60JcmioUeKpBQ117117
   item_date: "2016-09-26 00:00:00"
   title: Sunlight at the 21st Century Neighborhoods Symposium How humanizing data
@@ -2654,11 +2647,12 @@
   url: http://sunlightfoundation.com/blog/2016/09/26/sunlight-at-the-21st-century-neighborhoods-symposium-how-humanizing-data-will-improve-our-communities/
   domain: sunlightfoundation.com
   image: ""
-- curated_id: 2ac1f305625f1af6668826fb810d85cc
-  item_date: "2016-09-27 00:00:00"
-  title: Oracle denied new trial in copyright dispute with Google over Java
-  url: http://www.pcworld.com/article/3125113/oracle-denied-new-trial-in-copyright-dispute-with-google-over-java.html#tk.rss_all
-  domain: www.pcworld.com
+- curated_id: 51278bcfa33f0b5beb43ac00b583c47c
+  item_date: "2016-09-26 00:00:00"
+  title: European Allows Copyright Owners to Demand Open Wifi Networks be Password
+    Protected
+  url: https://www.eff.org/deeplinks/2016/09/european-allows-copyright-owners-demand-open-wifi-networks-be-password-protected
+  domain: www.eff.org
   image: ""
 - curated_id: a54f78ea988f2245b7c63970acd4be38
   item_date: "2016-09-27 00:00:00"
@@ -2666,17 +2660,23 @@
   url: http://thenextweb.com/insider/2016/09/27/mozilla-eu-copyright-law/
   domain: thenextweb.com
   image: ""
-- curated_id: tJ5VtL85De7116d0CtMQzv9uUbIT1RdFxI123h6dwAUUHdlKNUm6M8dqP1u3IZ0OxyTBzfGxiUDydoY116f1zerW9LlQ117117
-  item_date: "2016-09-28 00:00:00"
-  title: What is API Design
-  url: http://api-university.com/blog/what-is-api-design/
-  domain: api-university.com
+- curated_id: 2ac1f305625f1af6668826fb810d85cc
+  item_date: "2016-09-27 00:00:00"
+  title: Oracle denied new trial in copyright dispute with Google over Java
+  url: http://www.pcworld.com/article/3125113/oracle-denied-new-trial-in-copyright-dispute-with-google-over-java.html#tk.rss_all
+  domain: www.pcworld.com
   image: ""
 - curated_id: DwWXVrcos2G3G9963wiz0D4uQhzN2njtOdQJK06uX7IkPTkAE5Dhcu8OWvr24jxZLcvodWFRoceqnbDOfs7ApQ117117
   item_date: "2016-09-28 00:00:00"
   title: Announcing the OpenSource beaR Library
   url: http://www.esa.doc.gov/under-secretary-blog/announcing-open-source-bear-library
   domain: www.esa.doc.gov
+  image: ""
+- curated_id: tJ5VtL85De7116d0CtMQzv9uUbIT1RdFxI123h6dwAUUHdlKNUm6M8dqP1u3IZ0OxyTBzfGxiUDydoY116f1zerW9LlQ117117
+  item_date: "2016-09-28 00:00:00"
+  title: What is API Design
+  url: http://api-university.com/blog/what-is-api-design/
+  domain: api-university.com
   image: ""
 - curated_id: 7CeE123KNo123MVyYk9lEHdRyTJtEgeU3NehAxgWlk123AwQUkiP3116PG05dnj177Bvd1GpNoylYbEsnvTdSDlCm2g67Q117117
   item_date: "2016-09-29 13:23:41"
@@ -2810,29 +2810,29 @@
   url: http://dret.typepad.com/dretblog/2016/10/api-usability-matters.html
   domain: dret.typepad.com
   image: ""
-- curated_id: 116DJfGp9e3SCSl1236fULT4116lYhHEJ1Kmjbf5VgB38l2FG116HEDbx8ktTa116h147YNTT9ADBPd1230h525oGiCUfSGrmg117117
-  item_date: "2016-10-19 00:00:00"
-  title: From Good to Great API
-  url: http://api-university.com/blog/from-good-to-great-api/
-  domain: api-university.com
-  image: ""
 - curated_id: BBA116Yi3Ib060MJ123HmqgmaGhJ6i1230kxpcFicTxw7wAos1ISyHN1awVQbBAPQrDTmVut123qlCsarzjkc1uMdMcsUQ117117
   item_date: "2016-10-19 00:00:00"
   title: Designing better Web APIs  Part I  arefscom
   url: https://arefs.com/2016/10/19/designing-better-web-apis-part-i/
   domain: arefs.com
   image: ""
-- curated_id: sn116dMhVpC1vv6rctwmQj8Rjhik7123ib2DW116xrzMKfQ0stJc4y0U2wPZsmmBgTv0123YF9QrFE4DXPoLxqa5GE86Dg117117
-  item_date: "2016-10-31 00:00:00"
-  title: Introduction to APIFirst Design
-  url: http://www.programmableweb.com/news/introduction-to-api-first-design/analysis/2016/10/31
-  domain: www.programmableweb.com
+- curated_id: 116DJfGp9e3SCSl1236fULT4116lYhHEJ1Kmjbf5VgB38l2FG116HEDbx8ktTa116h147YNTT9ADBPd1230h525oGiCUfSGrmg117117
+  item_date: "2016-10-19 00:00:00"
+  title: From Good to Great API
+  url: http://api-university.com/blog/from-good-to-great-api/
+  domain: api-university.com
   image: ""
 - curated_id: dMcIt35Bmig123EVRJYyAv7nIFLwniY7MfwR0FPxUYNsEjkI6PQ4VXWMKdsRbYRAzfuDr116QLx54yDd3mhKx123byqw117117
   item_date: "2016-10-31 00:00:00"
   title: Introducing Seamless Source Control Integration With Bitbucket and SwaggerHub
   url: https://dzone.com/articles/introducing-seamless-source-control-integration-wi
   domain: dzone.com
+  image: ""
+- curated_id: sn116dMhVpC1vv6rctwmQj8Rjhik7123ib2DW116xrzMKfQ0stJc4y0U2wPZsmmBgTv0123YF9QrFE4DXPoLxqa5GE86Dg117117
+  item_date: "2016-10-31 00:00:00"
+  title: Introduction to APIFirst Design
+  url: http://www.programmableweb.com/news/introduction-to-api-first-design/analysis/2016/10/31
+  domain: www.programmableweb.com
   image: ""
 - curated_id: EtzfvKVCCoFG9ji123qKPecXVre3gQKXGLIbbSU1j1RHUtTDh3SgdpKCa0r5116RDImAf40116T1zp0QlR4W8CfJm5tg117117
   item_date: "2016-11-02 00:00:00"
@@ -2870,11 +2870,17 @@
   url: http://opencontent.org/blog/archives/4818
   domain: opencontent.org
   image: ""
-- curated_id: Jg5bAi9PLGNP9IJKUxF4iXAx0aW123q1tK66AiMWRkAWZ2F5GUqAB123zPjPMsyRNSUdEIz85OoVV1iUXfYO6xnMeQ117117
+- curated_id: cfbbf629a104e5b3a0460dc38d5511dc
   item_date: "2016-12-14 00:00:00"
-  title: Foundations of RESTful Architecture
-  url: https://dzone.com/refcardz/rest-foundations-restful
-  domain: dzone.com
+  title: 'BLOG: Protecting Innovation: Aristas Copying of Ciscos User Interfaces'
+  url: http://blogs.cisco.com/news/protecting-innovation-dc-jury-verdict
+  domain: blogs.cisco.com
+  image: ""
+- curated_id: b9b44fb4e342611819dc4f7b298f563e
+  item_date: "2016-12-14 00:00:00"
+  title: U.S. jury sides with Arista over Cisco in copyright battle
+  url: http://www.reuters.com/article/us-cisco-systems-arista-networks-verdict-idUSKBN1432MQ
+  domain: www.reuters.com
   image: ""
 - curated_id: R6JBesMvzzhL1FpnPgbc116SiTJ1b116Yi2QTA9alNEZ1dKpV9HhpM2tHekG1bVVuklTUaQnyH1GruehxyWZH8mWdw117117
   item_date: "2016-12-14 00:00:00"
@@ -2888,17 +2894,11 @@
   url: https://dzone.com/articles/7-secrets-to-designing-alexa-skills
   domain: dzone.com
   image: ""
-- curated_id: cfbbf629a104e5b3a0460dc38d5511dc
+- curated_id: Jg5bAi9PLGNP9IJKUxF4iXAx0aW123q1tK66AiMWRkAWZ2F5GUqAB123zPjPMsyRNSUdEIz85OoVV1iUXfYO6xnMeQ117117
   item_date: "2016-12-14 00:00:00"
-  title: 'BLOG: Protecting Innovation: Aristas Copying of Ciscos User Interfaces'
-  url: http://blogs.cisco.com/news/protecting-innovation-dc-jury-verdict
-  domain: blogs.cisco.com
-  image: ""
-- curated_id: b9b44fb4e342611819dc4f7b298f563e
-  item_date: "2016-12-14 00:00:00"
-  title: U.S. jury sides with Arista over Cisco in copyright battle
-  url: http://www.reuters.com/article/us-cisco-systems-arista-networks-verdict-idUSKBN1432MQ
-  domain: www.reuters.com
+  title: Foundations of RESTful Architecture
+  url: https://dzone.com/refcardz/rest-foundations-restful
+  domain: dzone.com
   image: ""
 - curated_id: hCTkehE2fpb12356q116riWdoE9npZ8nzB0XHa3AAS2yKJU123RMX123tFyGtE7HBPP3OCF9VxQpS2cd9dghkJWD1234cK116w117117
   item_date: "2016-12-18 00:00:00"
@@ -3045,16 +3045,16 @@
   url: https://devkraken.wordpress.com/2017/02/03/api-design-collaboration-tool/
   domain: devkraken.wordpress.com
   image: ""
-- curated_id: 8fcaab9e8322fed7a078c788c1e56d2e
-  item_date: "2017-02-03 00:00:00"
-  title: How Is Non-Literally Copying Code Still Copyright Infringement?
-  url: https://www.techdirt.com/articles/20170202/11372736614/how-is-non-literally-copying-code-still-copyright-infringement.shtml
-  domain: www.techdirt.com
-  image: ""
 - curated_id: acae9c9500171a145e86bf6184f70e68
   item_date: "2017-02-03 00:00:00"
   title: Federal Court Basically Says Its Okay To Copyright Parts Of Our Laws
   url: https://www.techdirt.com/articles/20170203/00341736620/federal-court-basically-says-okay-to-copyright-parts-our-laws.shtml
+  domain: www.techdirt.com
+  image: ""
+- curated_id: 8fcaab9e8322fed7a078c788c1e56d2e
+  item_date: "2017-02-03 00:00:00"
+  title: How Is Non-Literally Copying Code Still Copyright Infringement?
+  url: https://www.techdirt.com/articles/20170202/11372736614/how-is-non-literally-copying-code-still-copyright-infringement.shtml
   domain: www.techdirt.com
   image: ""
 - curated_id: c5e15d15ee18bffcd1d218480fa02a20
@@ -3070,19 +3070,6 @@
   url: https://hackernoon.com/visualising-complex-apis-using-api-map-f09f617acb32#.8y525mrpn
   domain: hackernoon.com
   image: ""
-- curated_id: b9ec9c680c699615f1595485f5da461d
-  item_date: "2017-02-07 00:00:00"
-  title: The Metropolitan Museum of Art makes 375,000 images of public domain art
-    freely available under Creative Commons Zero
-  url: https://blog.wikimedia.org/2017/02/07/the-met-public-art-creative-commons/
-  domain: blog.wikimedia.org
-  image: ""
-- curated_id: 9b494bde4ee247de0231c05df475de48
-  item_date: "2017-02-07 00:00:00"
-  title: Announcing the new CC Search, now in Beta
-  url: https://creativecommons.org/2017/02/07/new-cc-search/
-  domain: creativecommons.org
-  image: ""
 - curated_id: gEkQR813o116HF8yldGiKvDtog1zeI9n4116fIHr5E7njDlzfcFoMh1HenoG9xDFFq123IM4116uY6GFuQjfDNUFkcXSDg117117
   item_date: "2017-02-07 00:00:00"
   title: Use a Local API to Protect Global Methods in a Distributed Environment
@@ -3095,12 +3082,18 @@
   url: https://newze.net/404-error-page/
   domain: newze.net
   image: ""
-- curated_id: f9fa226de6142bd92fd9e7021d4d2e22
-  item_date: "2017-02-08 00:00:00"
-  title: Metropolitan Museum of Art makes more than 375,000 public domain images available
-    as CC0
-  url: http://boingboing.net/2017/02/08/metropolitan-museum-of-art-mak.html
-  domain: boingboing.net
+- curated_id: 9b494bde4ee247de0231c05df475de48
+  item_date: "2017-02-07 00:00:00"
+  title: Announcing the new CC Search, now in Beta
+  url: https://creativecommons.org/2017/02/07/new-cc-search/
+  domain: creativecommons.org
+  image: ""
+- curated_id: b9ec9c680c699615f1595485f5da461d
+  item_date: "2017-02-07 00:00:00"
+  title: The Metropolitan Museum of Art makes 375,000 images of public domain art
+    freely available under Creative Commons Zero
+  url: https://blog.wikimedia.org/2017/02/07/the-met-public-art-creative-commons/
+  domain: blog.wikimedia.org
   image: ""
 - curated_id: gCK4O9BWxWcBb9dnQDKBWP09J34pOlV2mK123dJUI116rgJm4cmHXnYEBgiGf886QlDbh1w621Lm9QIO2ap6VnxjLA117117
   item_date: "2017-02-08 00:00:00"
@@ -3108,23 +3101,30 @@
   url: https://dzone.com/articles/the-simple-guide-to-http-verbs-patch-put-and-post
   domain: dzone.com
   image: ""
+- curated_id: f9fa226de6142bd92fd9e7021d4d2e22
+  item_date: "2017-02-08 00:00:00"
+  title: Metropolitan Museum of Art makes more than 375,000 public domain images available
+    as CC0
+  url: http://boingboing.net/2017/02/08/metropolitan-museum-of-art-mak.html
+  domain: boingboing.net
+  image: ""
 - curated_id: 6bed3119b43d132cf609a43decf3a9b7
   item_date: "2017-02-09 00:00:00"
   title: The Met Goes Public Domain With CC0, But It Shouldnt Have To
   url: https://www.techdirt.com/articles/20170208/13005636669/met-goes-public-domain-with-cc0-it-shouldnt-have-to.shtml
   domain: www.techdirt.com
   image: ""
-- curated_id: elZcgSL9ngOFQ3cXof9E2xLNhwU1ODX8GUYytnhlJ4sDC3T65bYKnBiTmH3Xinoev1kZYOijuQWQYztI0dK7SA117117
-  item_date: "2017-02-10 00:00:00"
-  title: An Overview of ExperienceBased API Integration Patterns
-  url: https://dzone.com/articles/api-integration-patterns-experience-based-apis
-  domain: dzone.com
-  image: ""
 - curated_id: bef2eaf085476b1aba4de6c20aa0fb4e
   item_date: "2017-02-10 00:00:00"
   title: As promised, Oracle just filed its appeal in its massive case against Google
   url: http://www.businessinsider.com/oracle-is-still-trying-to-win-its-massive-lawsuit-against-google-2017-2
   domain: www.businessinsider.com
+  image: ""
+- curated_id: elZcgSL9ngOFQ3cXof9E2xLNhwU1ODX8GUYytnhlJ4sDC3T65bYKnBiTmH3Xinoev1kZYOijuQWQYztI0dK7SA117117
+  item_date: "2017-02-10 00:00:00"
+  title: An Overview of ExperienceBased API Integration Patterns
+  url: https://dzone.com/articles/api-integration-patterns-experience-based-apis
+  domain: dzone.com
   image: ""
 - curated_id: 86d38adf949dfe5d2b46df0372829408
   item_date: "2017-02-13 00:00:00"
@@ -3138,17 +3138,17 @@
   url: https://www.codeproject.com/Articles/1169060/Model-driven-RESTful-API-for-CRUD-and-more
   domain: www.codeproject.com
   image: ""
-- curated_id: 0IAQwlK116LpSD8H3HOaq1165GR2123Hn5UeZEcV7TDUbBwjAvhrZ6RyliHimG12309LLQ2STYPTcMVOokrWtmFcP41123wg117117
-  item_date: "2017-02-15 00:00:00"
-  title: ConsumerOriented API Design
-  url: http://api-university.com/blog/consumer-oriented-api-design-2/
-  domain: api-university.com
-  image: ""
 - curated_id: cTdCVjsVWLDDPUFgpBCSdKj8TChU28RdRsjgqC3TLplkrOKZ6m5AkEDYmWJ1235yNjKX45K00pXsww5QUOQKqotg117117
   item_date: "2017-02-15 00:00:00"
   title: Implementing DomainDriven Design in PHP
   url: https://dzone.com/articles/implementing-domain-driven-design-in-php
   domain: dzone.com
+  image: ""
+- curated_id: 0IAQwlK116LpSD8H3HOaq1165GR2123Hn5UeZEcV7TDUbBwjAvhrZ6RyliHimG12309LLQ2STYPTcMVOokrWtmFcP41123wg117117
+  item_date: "2017-02-15 00:00:00"
+  title: ConsumerOriented API Design
+  url: http://api-university.com/blog/consumer-oriented-api-design-2/
+  domain: api-university.com
   image: ""
 - curated_id: obUXVkeXzx3i9MkgDvWk116XP2qZzRTC1PJ123DsMov1crv7f116q6bt2LkyU6wtFki123DLe6XsfuBujSEc3DwARnnwfA117117
   item_date: "2017-02-17 00:00:00"
@@ -3256,17 +3256,17 @@
   url: https://tyk.io/2017/03/06/api-management-events-webhooks-microservices/
   domain: tyk.io
   image: ""
-- curated_id: y7aIobXwBSysxDKTD7AyDx1ueYEqJlj4qY3riZMtIE3g1Y9klS4fguFLYyBUdsKFPW10oamsMlPPVwhaC116gEOw117117
-  item_date: "2017-03-08 00:00:00"
-  title: 4 Ways Your API Is Not Quite What I Want
-  url: https://zapier.com/engineering/api-pet-peeves/
-  domain: zapier.com
-  image: ""
 - curated_id: IXNnXpt4KbvV7SYgrhePZLdBLnGWsSIw1JJu123ivKjBlyRQBaG6hc1S8pVpOYZIBA8Dubiho7oDZE4wIMwmfOWg117117
   item_date: "2017-03-08 00:00:00"
   title: Two Forgotten Aspects to an API Design First Approach
   url: https://medium.com/m/global-identity
   domain: medium.com
+  image: ""
+- curated_id: y7aIobXwBSysxDKTD7AyDx1ueYEqJlj4qY3riZMtIE3g1Y9klS4fguFLYyBUdsKFPW10oamsMlPPVwhaC116gEOw117117
+  item_date: "2017-03-08 00:00:00"
+  title: 4 Ways Your API Is Not Quite What I Want
+  url: https://zapier.com/engineering/api-pet-peeves/
+  domain: zapier.com
   image: ""
 - curated_id: q1Nq1168Bcxhx3GzO5iZjXpvvGQiI1dZu7Jz6TNpVb1JutCa673BNVWfZoU116r3Yxl2OvB6MyFoO0VXYYOz116f1116Vg117117
   item_date: "2017-03-08 10:12:12"
@@ -3361,18 +3361,18 @@
   url: http://nordicapis.com/new-ebook-released-api-design-on-the-scale-of-decades/
   domain: nordicapis.com
   image: ""
+- curated_id: mN123mJEO5pdph123THb123RjJvV9wqqi123K1qLV3juc31236scGa7EWfAzYM1B0IAaQTENCAUuwMhJLAjN7dcabdcomUUg117117
+  item_date: "2017-04-05 00:00:00"
+  title: Using field masks with Google APIs for partial response
+  url: https://developers.googleblog.com/2017/04/using-field-masks-with-google-apis-for.html
+  domain: developers.googleblog.com
+  image: ""
 - curated_id: 1b8495dc1cdb2860c9b3efa983c1c6a7
   item_date: "2017-04-05 00:00:00"
   title: German Court Rules Parents Must Out Their Family Members For Copyright Trolls
     Or Pay Fines Themselves
   url: https://www.techdirt.com/articles/20170331/09443637049/german-court-rules-parents-must-out-their-family-members-copyright-trolls-pay-fines-themselves.shtml
   domain: www.techdirt.com
-  image: ""
-- curated_id: mN123mJEO5pdph123THb123RjJvV9wqqi123K1qLV3juc31236scGa7EWfAzYM1B0IAaQTENCAUuwMhJLAjN7dcabdcomUUg117117
-  item_date: "2017-04-05 00:00:00"
-  title: Using field masks with Google APIs for partial response
-  url: https://developers.googleblog.com/2017/04/using-field-masks-with-google-apis-for.html
-  domain: developers.googleblog.com
   image: ""
 - curated_id: Yy0bHmF4NQBaaLs7oGuSiPGsZKouj11Bg123UCW5E4Fsv27n10opofu1162PuIx7l0Q123VyWsIzGRK1FROiuAvtylCg117117
   item_date: "2017-04-05 00:40:41"
@@ -3441,17 +3441,17 @@
   url: https://medium.com/m/global-identity
   domain: medium.com
   image: ""
-- curated_id: 21DFk7fxErnKg2QXLJL9U5gBMqhi7JGlBaiVt2IROkM0bUfdSmCKWZ14TBzmBrwqreUi9NKBqDjbzBss8NuMLA117117
-  item_date: "2017-04-20 00:00:00"
-  title: Is Protobuf 5x Faster Than JSON Part 2
-  url: https://dzone.com/articles/is-protobuf-5x-faster-than-json-part-ii
-  domain: dzone.com
-  image: ""
 - curated_id: ABu4d7a123Thk93UlswkJAXycX6UkiQeRUcAQ116nXtCSqarYYEuAS8Ps1234n9J1P96FoL31KfgR9caoaYWHgQ0l4FQ117117
   item_date: "2017-04-20 00:00:00"
   title: SOAP vs REST A Look at Two Different API Styles
   url: http://www.business2community.com/brandviews/upwork/soap-vs-rest-look-two-different-api-styles-01827446
   domain: www.business2community.com
+  image: ""
+- curated_id: 21DFk7fxErnKg2QXLJL9U5gBMqhi7JGlBaiVt2IROkM0bUfdSmCKWZ14TBzmBrwqreUi9NKBqDjbzBss8NuMLA117117
+  item_date: "2017-04-20 00:00:00"
+  title: Is Protobuf 5x Faster Than JSON Part 2
+  url: https://dzone.com/articles/is-protobuf-5x-faster-than-json-part-ii
+  domain: dzone.com
   image: ""
 - curated_id: n11651h6Axb4vAX9IXQp4x7YvgBJrHboX6L123vp23Kf7HkQ81JR1D6OQvEz0sRbkn116nlpDuYqMZ1123Z6ydiEkzxg116w117117
   item_date: "2017-04-20 09:37:05"
@@ -3472,17 +3472,17 @@
   url: http://boingboing.net/2017/04/22/drm-eschatology.html
   domain: boingboing.net
   image: ""
-- curated_id: tPdy123UwPhTwr1U123Og3IOSAINYRJsUllPTxqZkeN14QIWjARsjYGotesb1d0T8YmQUdxJ4Pz116c7IIyoii116YsiuA117117
-  item_date: "2017-04-25 00:00:00"
-  title: Deliveroo API Design Guidelines added to the API Stylebook
-  url: https://apihandyman.io/deliveroo-api-design-guidelines-added-to-the-api-stylebook/
-  domain: apihandyman.io
-  image: ""
 - curated_id: qPMVyOTH8Dpv116AoQ0Vr7UejhQzqbE1165z6W123JNmrJA9U6vf8lHbVdJJbG8slWosbw5i1232123aILigQniCLcxHKreA117117
   item_date: "2017-04-25 00:00:00"
   title: Introducing ProtocolOriented BDD in Swift for iOS Apps Part 1
   url: https://dzone.com/articles/introducing-protocol-oriented-bdd-in-swift-for-ios
   domain: dzone.com
+  image: ""
+- curated_id: tPdy123UwPhTwr1U123Og3IOSAINYRJsUllPTxqZkeN14QIWjARsjYGotesb1d0T8YmQUdxJ4Pz116c7IIyoii116YsiuA117117
+  item_date: "2017-04-25 00:00:00"
+  title: Deliveroo API Design Guidelines added to the API Stylebook
+  url: https://apihandyman.io/deliveroo-api-design-guidelines-added-to-the-api-stylebook/
+  domain: apihandyman.io
   image: ""
 - curated_id: yNDL6OQYIJayeVJjtplUDL2H8123YXL792Uelek9O123N5ug1cKPZ5ERSxTbDRsoa22stYYmncb8SSkFopoH3svsyA117117
   item_date: "2017-04-25 12:10:12"
@@ -3496,17 +3496,17 @@
   url: https://twitter.com/Runscope/statuses/856992717330673664
   domain: twitter.com
   image: ""
-- curated_id: B4JNeA123K4BBbXcxPThwBmHsG99LdR2G1pDAA49RiLeWB4FCBEIIcLb4116fJ7ncC10eWULPKlyajAsrsjNNSOtOA117117
-  item_date: "2017-04-26 00:00:00"
-  title: Summarizing requests
-  url: http://www.apiful.io/intro/2017/04/27/summarizing-requests.html
-  domain: www.apiful.io
-  image: ""
 - curated_id: Wl8yWdJEUUBQXYXWW7dG1235SuuE3NFvjgW4lBDcuw16G116oCKuPhIuoHNwW7yLO5I9CaGdv4ddGh4iw8TDi2iJNg117117
   item_date: "2017-04-26 00:00:00"
   title: Manage your gRPC APIs with Google Cloud Endpoints
   url: http://cloudplatform.googleblog.com/2017/04/manage-your-gRPC-APIs-with-Google-Cloud-Endpoints.html
   domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: B4JNeA123K4BBbXcxPThwBmHsG99LdR2G1pDAA49RiLeWB4FCBEIIcLb4116fJ7ncC10eWULPKlyajAsrsjNNSOtOA117117
+  item_date: "2017-04-26 00:00:00"
+  title: Summarizing requests
+  url: http://www.apiful.io/intro/2017/04/27/summarizing-requests.html
+  domain: www.apiful.io
   image: ""
 - curated_id: drWoJN0PKccMe2Yhq50tDcqwTvmHEhqgIb38jaA5rlwINKXrYHViri0KnN8XZSzzwo9123fE8XNaPfjIVwM1NRbw117117
   item_date: "2017-04-27 12:47:45"
@@ -3532,17 +3532,17 @@
   url: https://github.com/18F/doi-extractives-data/wiki/Little-rules-for-designing-with-data
   domain: github.com
   image: ""
-- curated_id: W07EnCoRP4i0F3dLBpZku0xDNXV123GLaaPTNhBzIMrDTO2UJd4Tguc116L116n1BFUUCklkzbVJ1V3E4nmsropW116Jdg117117
-  item_date: "2017-05-03 00:00:00"
-  title: REST API Industry Debate OData vs GraphQL vs ORDS
-  url: https://www.progress.com/blogs/rest-api-industry-debate-odata-vs-graphql-vs-ords
-  domain: www.progress.com
-  image: ""
 - curated_id: YESer1QlB0ywuCcgSxl116JAWB6UjFCPUQNBgRPzGPcD123URPs9tetLeSHqUQbJ886osMMKr1167ctZXYx5h8VafAnA117117
   item_date: "2017-05-03 00:00:00"
   title: The two perspectives of API design
   url: https://restlet.com/company/blog/2017/05/03/the-two-perspectives-of-api-design/
   domain: restlet.com
+  image: ""
+- curated_id: W07EnCoRP4i0F3dLBpZku0xDNXV123GLaaPTNhBzIMrDTO2UJd4Tguc116L116n1BFUUCklkzbVJ1V3E4nmsropW116Jdg117117
+  item_date: "2017-05-03 00:00:00"
+  title: REST API Industry Debate OData vs GraphQL vs ORDS
+  url: https://www.progress.com/blogs/rest-api-industry-debate-odata-vs-graphql-vs-ords
+  domain: www.progress.com
   image: ""
 - curated_id: Hjeb94UAR03xqLCT123OSpCjFvg116saP2gANJbbeigUwyk2k2bhvOwj1239Qoved123VwvCptzrSQ9hvxKkcPZqlblzbg117117
   item_date: "2017-05-04 00:00:00"
